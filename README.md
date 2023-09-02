@@ -1,4 +1,4 @@
-# LLMs-Open-Papers-as-Book 
+# LLMs-Inference-Papers
 
 ![](https://img.shields.io/github/downloads/DefTruth/LLMs-Open-Papers-as-Book/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/LLMs-Open-Papers-as-Book.svg?style=social)
 
