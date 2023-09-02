@@ -9,22 +9,22 @@
 
 点击下载：
 
-- [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Open-Papers-as-Book-v0.1_For-Beginners.pdf)  
+- [LLMs-Inference-Papers-v0.1.zip](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip)  
 
 
 或命令行下载：
 
 ```bash
-wget https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Open-Papers-as-Book-v0.1_For-Beginners.pdf
+wget https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip
 ```
 
 ## ✅更新  
 
-- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Open-Papers-as-Book/releases/download/v0.1/LLMs-Open-Papers-as-Book-v0.1_For-Beginners.pdf): LLMs入门，偏优化，600页PDF。涉及Transformer、BN、LN、MQA、FlashAttention、FlashAttention2、GLM、GLM-130B、GPT-3、GPT-3.5、GPT-4、LLaMA、LLaMA2、LoRA、QLoRA、P-Tuning V1、P-Tuning V2、RoPE、SmoothQuant、WINT8/4、Continuous Batching（动态插入）、FP8等。
+- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): LLMs入门，偏优化，600页PDF。涉及Transformer、BN、LN、MQA、FlashAttention、FlashAttention2、GLM、GLM-130B、GPT-3、GPT-3.5、GPT-4、LLaMA、LLaMA2、LoRA、QLoRA、P-Tuning V1、P-Tuning V2、RoPE、SmoothQuant、WINT8/4、Continuous Batching（动态插入）、FP8等。
 
 ## 💻版本  
 
-- v0.1: [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Open-Papers-as-Book-v0.1_For-Beginners.pdf)
+- v0.1: [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip)
 
 <img width="1788" alt="LLMs-Inference-Papers-v0 1_For_Beginners" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/03fac365-87da-4c9d-909c-ea2fe457b127">
 
