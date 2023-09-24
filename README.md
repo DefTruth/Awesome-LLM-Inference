@@ -25,7 +25,7 @@ wget https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.2/LL
 
 <img width="1788" alt="LLMs-Inference-Papers-v0 1_For_Beginners" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/03fac365-87da-4c9d-909c-ea2fe457b127">
 
-- [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.2.zip): LLMs推理优化论文（**精简版，仅包含推理优化论文**），286页PDF。包含ByteTransformer、FastServe、FlashAttention、FlashAttention-2、FlexGen、FP8、LLM.int8()、Tensor Core相关、PagedAttention、RoPE、SmoothQuant、SpecInfer、WINT8/4、Continuous Batching、ZeroQuant等。
+- [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs推理优化论文（**精简版，仅包含推理优化论文**），286页PDF。包含ByteTransformer、FastServe、FlashAttention、FlashAttention-2、FlexGen、FP8、LLM.int8()、Tensor Core相关、PagedAttention、RoPE、SmoothQuant、SpecInfer、WINT8/4、Continuous Batching、ZeroQuant等。
 
 <img width="1440" alt="v0 2" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
 
