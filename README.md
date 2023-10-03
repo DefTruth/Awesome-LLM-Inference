@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img width="400" height="200" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
+  <img width="500" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
 </div>  
 
 <div align='center'>
