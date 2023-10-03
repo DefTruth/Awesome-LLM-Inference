@@ -1,6 +1,6 @@
 # Awesome-LLM-Inference ![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
-A small Awesome Collection for LLM inference papers with codes, please check [Awesome LLM Inference Papers with Codes](#paperlist) for more details.
+A small collection for Awesome LLM inference papers with codes, please check [Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
 ## 🎉Download PDFs  
 click here to download PDFs:   
