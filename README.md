@@ -1,16 +1,14 @@
-# Awesome-LLM-Inference
+# Awesome-LLM-Inference ![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
-![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
-
-## 🌟Introduction
+## 👀Introduction
 A small Awesome Collection for LLM inference papers with codes, please check [Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
-## ✅Download PDFs  
+## 🎉Download PDFs  
 click here to download PDFs:   
 - [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs, the main content is LLMs inference optimization, 600 pages PDF, contains Transformer, BN, LN, MQA, FlashAttention 1/2, GLM, GPT-3, GPT-3.5, GPT-4, LLaMA 1/2, LoRA, QLoRA, P-Tuning V1/V2, RoPE, SmoothQuant, WINT8/4, Continuous Batching, FP8 etc.  
 - [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs inference paper (**only contains inference paper**), 286 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant etc.
 
-<img width="1440" alt="v0 2" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
+<img width="1440" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
 
 or download from command line:
 
