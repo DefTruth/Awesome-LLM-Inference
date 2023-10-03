@@ -1,35 +1,32 @@
-# LLMs-Inference-Papers
+# Awesome-LLM-Inference
 
-![](https://img.shields.io/github/downloads/DefTruth/LLMs-Inference-Papers/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/LLMs-Inference-Papers.svg?style=social)
+![](https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social)
 
-## 🌟说明
-持续更新：最近想整体地读一下LLMs推理优化相关的Papers，但发现各个博客文章介绍到的知识点涉及的论文比较分散，于是将自己关注的一些LLMs推理优化技术论文整理成册，便于自己阅读查找，也在这里分享出来。格式：PDF，带标签，可跳转。更多论文可见，[✅LLM推理论文列表](#paperlist)，欢迎star🌟👨‍💻~
+## 🌟Introduction
+A small Awesome Collection for LLM inference papers with codes, please check [Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
-## ✅PDF下载  
+## ✅Download PDFs  
 
-点击下载：
+click here to download PDFs:
 
-- [LLMs-Inference-Papers-v0.1.zip](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): LLMs入门+推理入门  
-- [LLMs-Inference-Papers-v0.2.zip](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): 精简版，仅包含推理论文  
+- [LLMs-Inference-Papers-v0.1.zip](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs, the main content is LLMs inference optimization, 600 pages PDF.  
+- [LLMs-Inference-Papers-v0.2.zip](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs inference paper (**lite version, only contains inference paper**), 286 pages PDF.
 
-或命令行下载：
+or download from command line:
 
 ```bash
-wget https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip
-wget https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip
+wget https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip
+wget https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip
 ```
 
-## 🎉PDF更新  
+## 🎉Updates
 
-- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): LLMs入门，偏优化，600页PDF。涉及Transformer、BN、LN、MQA、FlashAttention、FlashAttention2、GLM、GLM-130B、GPT-3、GPT-3.5、GPT-4、LLaMA 1、2、LoRA、QLoRA、P-Tuning V1/V2、RoPE、SmoothQuant、WINT8/4、Continuous Batching（动态插入）、FP8等。
-
-<img width="1788" alt="LLMs-Inference-Papers-v0 1_For_Beginners" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/03fac365-87da-4c9d-909c-ea2fe457b127">
-
-- [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/LLMs-Inference-Papers/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs推理优化论文（**精简版，仅包含推理优化论文**），286页PDF。包含ByteTransformer、FastServe、FlashAttention、FlashAttention-2、FlexGen、FP8、LLM.int8()、Tensor Core相关、PagedAttention、RoPE、SmoothQuant、SpecInfer、WINT8/4、Continuous Batching、ZeroQuant等。
+- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs, the main content is LLMs inference optimization, 600 pages PDF, contains Transformer, BN, LN, MQA, FlashAttention, FlashAttention2, GLM, GLM-130B, GPT-3, GPT-3.5, GPT-4, LLaMA 1/2, LoRA, QLoRA, P-Tuning V1/V2, RoPE, SmoothQuant, WINT8/4, Continuous Batching, FP8 etc.  
+- [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs inference paper (**lite version, only contains inference paper**), 286 pages PDF, contains ByteTransformer, FastServe, FlashAttention, FlashAttention-2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant etc.
 
 <img width="1440" alt="v0 2" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
 
-## 📁LLM推理论文列表
+## 📁Awesome LLM Inference Papers with Codes
 
 <div id="paperlist"></div>  
 
