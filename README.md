@@ -7,7 +7,7 @@ A small Awesome Collection for LLM inference papers with codes, please check [Aw
 
 ## ✅Download PDFs  
 click here to download PDFs:   
-- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs, the main content is LLMs inference optimization, 600 pages PDF, contains Transformer, BN, LN, MQA, FlashAttention, FlashAttention2, GLM, GLM-130B, GPT-3, GPT-3.5, GPT-4, LLaMA 1/2, LoRA, QLoRA, P-Tuning V1/V2, RoPE, SmoothQuant, WINT8/4, Continuous Batching, FP8 etc.  
+- [x] [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs, the main content is LLMs inference optimization, 600 pages PDF, contains Transformer, BN, LN, MQA, FlashAttention 1/2, GLM, GPT-3, GPT-3.5, GPT-4, LLaMA 1/2, LoRA, QLoRA, P-Tuning V1/V2, RoPE, SmoothQuant, WINT8/4, Continuous Batching, FP8 etc.  
 - [x] [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs inference paper (**only contains inference paper**), 286 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant etc.
 
 <img width="1440" alt="v0 2" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
