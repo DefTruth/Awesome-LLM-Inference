@@ -13,15 +13,8 @@
 Awesome-LLM-Inference: A small collection for Awesome LLM inference papers with codes, please check [Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
 ## 🎉Download PDFs  
-click here to download PDFs:   
 - [LLMs-Inference-Papers-v0.1.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip): Introduction to LLMs and LLMs inference tech, 600 pages PDF, contains Transformer, BN, LN, MQA, FlashAttention 1/2, GLM, GPT, LLaMA 1/2, LoRA, QLoRA, P-Tuning V1/V2, RoPE, SmoothQuant, WINT8/4, Continuous Batching, FP8 etc.
 - [LLMs-Inference-Papers-v0.2.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip): LLMs inference papers, 286 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant etc.
-  
-or download from command line: 
-```shell
-wget https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.1/LLMs-Inference-Papers-v0.1.zip
-wget https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LLMs-Inference-Papers-v0.2.zip
-```
 
 ## 📁Awesome LLM Inference Papers with Codes
 
@@ -48,6 +41,8 @@ wget https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.2/LL
 |2022.06|[ZeroQuant] Efficient and Affordable Post-Training Quantization for Large-Scale Transformers |[[arxiv][pdf]](https://arxiv.org/pdf/2206.01861.pdf)|[[GitHub][DeepSpeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social)|   
 |2023.03|[ZeroQuant-V2] Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation|[[arxiv][pdf]](https://arxiv.org/pdf/2303.08302.pdf)|[[GitHub][DeepSpeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social)|
 |2023.07|[ZeroQuant-FP] A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats|[[arxiv][pdf]](https://arxiv.org/pdf/2307.09782.pdf)|[[GitHub][DeepSpeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social)|
+|2023.09|[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS|[[arxiv][pdf]](https://arxiv.org/pdf/2309.17453.pdf)|[[GitHub][streaming-llm]](https://github.com/mit-han-lab/streaming-llm) ![](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)|
+
 
 
 ## ©️License  
