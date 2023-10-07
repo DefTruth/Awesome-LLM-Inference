@@ -43,6 +43,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference papers with 
 |2023.07|[ZeroQuant-FP] A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats|[[arxiv][pdf]](https://arxiv.org/pdf/2307.09782.pdf)|[[GitHub][DeepSpeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social)|
 |2023.09|[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS|[[arxiv][pdf]](https://arxiv.org/pdf/2309.17453.pdf)|[[GitHub][streaming-llm]](https://github.com/mit-han-lab/streaming-llm) ![](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)|
 |2023.06|[AWQ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration|[[arxiv][pdf]](https://browse.arxiv.org/pdf/2306.00978.pdf)|[[GitHub][llm-awq]](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social)|
+|2023.06|[SpQR] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression|[[arxiv][pdf]](https://browse.arxiv.org/pdf/2306.03078.pdf)|[[GitHub][SpQR]](https://github.com/Vahe1994/SpQR) ![](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social)|
 
 
 
