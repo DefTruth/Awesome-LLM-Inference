@@ -23,15 +23,15 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference papers with 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[arxiv][pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[GitHub] [ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|   
-|2022.07|[Continuous Batching] Orca: A Distributed Serving System for Transformer-Based Generative Models |[[osdi22-yu][pdf]](https://www.usenix.org/system/files/osdi22-yu.pdf)|-|          
-|2023.05|[FastServe] Fast Distributed Inference Serving for  Large Language Models |[[arxiv][pdf]](https://arxiv.org/pdf/2305.05920.pdf)|-|       
+|2022.07|[Continuous Batching] Orca: A Distributed Serving System for Transformer-Based Generative Models |[[osdi22-yu][pdf]](https://www.usenix.org/system/files/osdi22-yu.pdf)|👍|          
+|2023.05|[FastServe] Fast Distributed Inference Serving for  Large Language Models |[[arxiv][pdf]](https://arxiv.org/pdf/2305.05920.pdf)|👍|       
 |2022.05|[FlashAttention] Fast and Memory-Efficient Exact Attention with IO-Awareness |[[arxiv][pdf]](https://arxiv.org/pdf/2205.14135.pdf)|[[GitHub][flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|     
 |2023.07|[FlashAttention-2] Faster Attention with Better Parallelism and Work Partitioning |[[arxiv][pdf]](https://arxiv.org/pdf/2307.08691.pdf)|[[GitHub][flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|    
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[arxiv][pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[GitHub][FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|       
-|2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|-|   
+|2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|👍|   
 |2022.08|[LLM.int8()] 8-bit Matrix Multiplication  for Transformers at Scale |[[arxiv][pdf]](https://arxiv.org/pdf/2208.07339.pdf)|[[GitHub][bitsandbytes]](https://github.com/timdettmers/bitsandbytes) ![](https://img.shields.io/github/stars/timdettmers/bitsandbytes.svg?style=social)|    
-|2018.03|[Tensor Core] NVIDIA Tensor Core Programmability, Performance & Precision |[[arxiv][pdf]](https://arxiv.org/pdf/1803.04014.pdf)|-|   
-|2018.05|[Online Softmax] Online normalizer calculation for softmax |[[arxiv][pdf]](https://arxiv.org/pdf/1805.02867.pdf)|-|    
+|2018.03|[Tensor Core] NVIDIA Tensor Core Programmability, Performance & Precision |[[arxiv][pdf]](https://arxiv.org/pdf/1803.04014.pdf)|👍|   
+|2018.05|[Online Softmax] Online normalizer calculation for softmax |[[arxiv][pdf]](https://arxiv.org/pdf/1805.02867.pdf)|👍|    
 |2023.09|[PagedAttention] Efficient Memory Management for Large Language  Model Serving with PagedAttention |[[arxiv][pdf]](https://arxiv.org/pdf/2309.06180.pdf)|[[GitHub][vllm]](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social)|   
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|   
 |2021.04|[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING |[[arxiv][pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[GitHub][transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|   
@@ -45,8 +45,8 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference papers with 
 |2023.06|[AWQ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration|[[arxiv][pdf]](https://browse.arxiv.org/pdf/2306.00978.pdf)|[[GitHub][llm-awq]](https://github.com/mit-han-lab/llm-awq) ![](https://img.shields.io/github/stars/mit-han-lab/llm-awq.svg?style=social)|
 |2023.06|[SpQR] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression|[[arxiv][pdf]](https://browse.arxiv.org/pdf/2306.03078.pdf)|[[GitHub][SpQR]](https://github.com/Vahe1994/SpQR) ![](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social)|  
 |2023.09|[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|  
-|2023.05|[FLOP, I/O] Dissecting Batching Effects in GPT Inference | [[blog en/cn]](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/) | - |  
-|2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization (LLM推理性能优化探索) | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|-|
+|2023.05|[FLOP, I/O] Dissecting Batching Effects in GPT Inference | [[blog en/cn]](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/) | 👍 |  
+|2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization (LLM推理性能优化探索) | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|👍|
 
 
 
