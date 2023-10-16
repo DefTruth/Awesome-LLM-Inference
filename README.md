@@ -46,7 +46,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference papers with 
 |2023.06|[SpQR] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression|[[arxiv][pdf]](https://browse.arxiv.org/pdf/2306.03078.pdf)|[[GitHub][SpQR]](https://github.com/Vahe1994/SpQR) ![](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social)|  
 |2023.09|[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|  
 |2023.05|[FLOP, I/O] Dissecting Batching Effects in GPT Inference | [[blog en/cn]](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/) | 👍 |  
-|2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization (LLM推理性能优化探索) | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|👍|  
+|2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|👍|  
 |2023.10|[Flash-Decoding] Flash-Decoding for long-context inference|[[tech report]](https://crfm.stanford.edu/2023/10/12/flashdecoding.html)|[[GitHub][flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|    
 
 
