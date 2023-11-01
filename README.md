@@ -48,7 +48,8 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference **[Papers|Bl
 |2023.05|[FLOP, I/O] Dissecting Batching Effects in GPT Inference | [[blog en/cn]](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/) | 👍 |  
 |2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|👍|  
 |2023.10|[Flash-Decoding] Flash-Decoding for long-context inference|[[tech report]](https://crfm.stanford.edu/2023/10/12/flashdecoding.html)|[[GitHub][flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|    
-|2023.10|[TensorRT-LLM] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |
+|2023.10|[TensorRT-LLM] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |  
+|2023.10|[FP8-LM] FP8-LM: Training FP8 Large Language Models| [[arxiv][pdf]](https://arxiv.org/pdf/2310.18313.pdf)| [[GitHub][/MS-AMP]](https://github.com/Azure/MS-AMP) ![](https://img.shields.io/github/stars/Azure/MS-AMP.svg?style=social) | 
 
 
 
