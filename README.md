@@ -21,8 +21,9 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference **[Papers|Bl
 <div id="paperlist"></div>  
 
 |Date|Title|Paper|Code|
-|:---:|:---:|:---:|:---:|
-|2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[arxiv][pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[GitHub] [ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|   
+|:---:|:---:|:---:|:---:|  
+|2020.05|[Megatron-LM] Training Multi-Billion Parameter Language Models Using Model Parallelism|[[arxiv][pdf]](https://arxiv.org/pdf/1909.08053.pdf)|[[GitHub][Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|   
+|2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[arxiv][pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[GitHub][ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|   
 |2022.07|[Continuous Batching] Orca: A Distributed Serving System for Transformer-Based Generative Models |[[osdi22-yu][pdf]](https://www.usenix.org/system/files/osdi22-yu.pdf)|👍|          
 |2023.05|[FastServe] Fast Distributed Inference Serving for  Large Language Models |[[arxiv][pdf]](https://arxiv.org/pdf/2305.05920.pdf)|👍|       
 |2022.05|[FlashAttention] Fast and Memory-Efficient Exact Attention with IO-Awareness |[[arxiv][pdf]](https://arxiv.org/pdf/2205.14135.pdf)|[[GitHub][flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|     
