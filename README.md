@@ -52,6 +52,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM inference **[Papers|Bl
 |2023.10|[TensorRT-LLM] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |  
 |2023.10|[FP8-LM] FP8-LM: Training FP8 Large Language Models| [[arxiv][pdf]](https://arxiv.org/pdf/2310.18313.pdf)| [[GitHub][MS-AMP]](https://github.com/Azure/MS-AMP) ![](https://img.shields.io/github/stars/Azure/MS-AMP.svg?style=social) | 
 |2023.10|[LLM-Shearing] SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING| [[arxiv][pdf]](https://arxiv.org/pdf/2310.06694.pdf) | [[GitHub][LLM-Shearing]](https://github.com/princeton-nlp/LLM-Shearing) ![](https://img.shields.io/github/stars/princeton-nlp/LLM-Shearing.svg?style=social)  | 
+|2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS | [[arxiv][pdf]](https://arxiv.org/pdf/2311.01282.pdf) | 👍 |
 
 
 
