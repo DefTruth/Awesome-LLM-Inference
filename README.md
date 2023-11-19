@@ -55,6 +55,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.10|[LLM-Shearing] SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING| [[arxiv][pdf]](https://arxiv.org/pdf/2310.06694.pdf) | [[GitHub][LLM-Shearing]](https://github.com/princeton-nlp/LLM-Shearing) ![](https://img.shields.io/github/stars/princeton-nlp/LLM-Shearing.svg?style=social)  | 
 |2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS | [[arxiv][pdf]](https://arxiv.org/pdf/2311.01282.pdf) | 👍 |  
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[GitHub][intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |   
+|2023.10|[LLM-FP4] LLM-FP4: 4-Bit Floating-Point Quantized Transformers | [[arxiv][pdf]](https://arxiv.org/pdf/2310.16836.pdf) | [[GitHub][LLM-FP4]](https://github.com/nbasyl/LLM-FP4) ![](https://img.shields.io/github/stars/nbasyl/LLM-FP4.svg?style=social) |
 
 ## ©️License  
 
