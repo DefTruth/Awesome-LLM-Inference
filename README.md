@@ -12,13 +12,6 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
-## 🎉Download PDFs  
-- [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): LLMs inference papers only, 500 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant, ZeroQuant-V2, ZeroQuant-FP, AWQ, FlashDecoding, FlashDecoding++, FP8-LM, LLM-FP4, StreamLLM etc. 
-
-<div align='center'>
-<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/ed16dc2e-08a4-4225-9a8c-ea6402e26fb8 >
-</div>   
-
 ## 📙Awesome LLM Inference Papers with Codes
 
 <div id="paperlist"></div>  
@@ -60,6 +53,13 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS | [[arxiv][pdf]](https://arxiv.org/pdf/2311.01282.pdf) | 👍 |  
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[GitHub][intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |   
 |2023.10|[LLM-FP4] LLM-FP4: 4-Bit Floating-Point Quantized Transformers | [[arxiv][pdf]](https://arxiv.org/pdf/2310.16836.pdf) | [[GitHub][LLM-FP4]](https://github.com/nbasyl/LLM-FP4) ![](https://img.shields.io/github/stars/nbasyl/LLM-FP4.svg?style=social) |  
+
+## 🎉Download PDFs  
+- [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): LLMs inference papers only, 500 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant, ZeroQuant-V2, ZeroQuant-FP, AWQ, FlashDecoding, FlashDecoding++, FP8-LM, LLM-FP4, StreamLLM etc. 
+
+<div align='center'>
+<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/ed16dc2e-08a4-4225-9a8c-ea6402e26fb8 >
+</div>   
 
 ## ©️License  
 
