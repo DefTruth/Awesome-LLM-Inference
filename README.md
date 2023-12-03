@@ -10,7 +10,14 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details.
+Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details or click here to download [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip).
+
+## 🎉Download PDFs  
+- [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): LLMs inference papers only, 500 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant, ZeroQuant-V2, ZeroQuant-FP, AWQ, FlashDecoding, FlashDecoding++, FP8-LM, LLM-FP4, StreamLLM etc. 
+
+<div align='center'>
+<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/a0bab25e-58de-4248-85a2-8942be0ce370 >
+</div>   
 
 ## 📙Awesome LLM Inference Papers with Codes
 
@@ -61,13 +68,6 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.11|🔥🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time|[[arxiv][pdf]](https://arxiv.org/pdf/2310.05869.pdf)|⚠️ |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.11|[Splitwise] Splitwise: Efficient Generative LLM Inference Using Phase Splitting|[[arxiv][pdf]](https://arxiv.org/pdf/2311.18677.pdf)|⚠️ |⭐️⭐️⭐️ |   
 |2023.11|[2-bit LLM] Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization |[[arxiv][pdf]](https://arxiv.org/pdf/2311.16442.pdf)|⚠️ |⭐️⭐️⭐️ | 
-
-## 🎉Download PDFs  
-- [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): LLMs inference papers only, 500 pages PDF, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant, ZeroQuant-V2, ZeroQuant-FP, AWQ, FlashDecoding, FlashDecoding++, FP8-LM, LLM-FP4, StreamLLM etc. 
-
-<div align='center'>
-<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/ed16dc2e-08a4-4225-9a8c-ea6402e26fb8 >
-</div>   
 
 ## ©️License  
 
