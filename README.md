@@ -10,7 +10,7 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details or click here to download [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip).
+Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
 ## 🎉Download PDFs  
 
