@@ -24,7 +24,7 @@
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
   <img src=https://img.shields.io/badge/release-v0.3-yellow.svg >
-  <img src=https://img.shields.io/badge/LLM-Inference-turquoise.svg >
+  <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
 ## 📒Introduction
