@@ -166,4 +166,15 @@ GNU General Public License v3.0
 
 ## 🎉Contribute  
 
-Welcome to submit a PR to this repo!
+Welcome to submit a PR to this repo! 
+
+## ⭐️Star History
+
+<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+  </picture>
+</a>
+
