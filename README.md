@@ -43,7 +43,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 * [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
 * [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
-* [LLM CPU/Single GPU Inference](#LLM-CPU-Single-GPU-Inference)
+* [LLM CPU/Single GPU/Mobile Device Inference](#LLM-CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
 * [Sampling、Position Embed、Others](#Others)
 
@@ -135,13 +135,14 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️⭐️⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️⭐️⭐️ |     
 
-### LLM CPU/Single GPU Inference
+### LLM CPU/Single GPU/Mobile Device Inference
 <div id="LLM-CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[arxiv][pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[GitHub][FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|⭐️⭐️⭐️ |          
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[GitHub][intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |⭐️⭐️⭐️ |     
+||2023.12|[LinguaLinked] LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices|[[arxiv][pdf]](https://arxiv.org/pdf/2312.00388.pdf)|⚠️ |⭐️⭐️⭐️ | 
 
 ### Non Transformer Architecture  
 <div id="Non-Transformer-Architecture"></div>  
