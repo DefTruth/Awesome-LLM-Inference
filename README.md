@@ -1,10 +1,3 @@
-<!--
-<div align='center'>
-  <img width="500" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
-</div>  
-## ⭐️Star History
-
--->
 
 <div align='center'>
   <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
@@ -168,18 +161,6 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[arxiv][pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[GitHub][ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️⭐️⭐️ |       
 |2023.09|[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS|[[arxiv][pdf]](https://arxiv.org/pdf/2309.17453.pdf)|[[GitHub][streaming-llm]](https://github.com/mit-han-lab/streaming-llm) ![](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)|⭐️⭐️⭐️ |  
 |2023.09|[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️⭐️ |    
-
-## 📙Blogs About LLM Inference
-Here are some of my ZhiHu blogs about LLM Inference, only avaliable in Chinese now.
-
-|Date|Title|About|    
-|:---:|:---:|:---:|  
-|2023.10|[[大模型推理][WINT8/4][00]🔥通俗易懂讲解-快速反量化算法](https://zhuanlan.zhihu.com/p/657072856) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][01]🔥PRMT指令详解及FasterTransformer源码解析](https://zhuanlan.zhihu.com/p/657070837) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][02]🔥快速反量化之INT8转BF16](https://zhuanlan.zhihu.com/p/657073159) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][03]🔥LOP3指令详解及INT4转FP16/BF16分析](https://zhuanlan.zhihu.com/p/657073857) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
-
-TODO: add more blogs ....
 
 
 ## ©️License  
