@@ -12,6 +12,18 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
+## ⭐️Star History
+
+<div align='center'>
+<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
+  <picture align='center'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+    <img width="600" height="400" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+  </picture>
+</a>
+</div>
+
 ## 🎉Download PDFs  
 
 [Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, contains ByteTransformer, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), Tensor Cores, PagedAttention, RoPE, SmoothQuant, SpecInfer, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ, FlashDecoding, FlashDecoding++, FP8-LM, LLM-FP4, StreamLLM etc. 
@@ -167,14 +179,4 @@ GNU General Public License v3.0
 ## 🎉Contribute  
 
 Welcome to submit a PR to this repo! 
-
-## ⭐️Star History
-
-<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
-  </picture>
-</a>
 
