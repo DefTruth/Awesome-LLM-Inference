@@ -97,6 +97,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS | [[arxiv][pdf]](https://arxiv.org/pdf/2311.01282.pdf) | ⚠️ |⭐️⭐️⭐️ |    
 |2023.01|[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot| [[arxiv][pdf]](https://arxiv.org/pdf/2301.00774.pdf)| [[GitHub][sparsegpt]](https://github.com/IST-DASLab/sparsegpt) ![](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social) |⭐️⭐️⭐️ |    
 |2023.11|🔥🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time|[[arxiv][pdf]](https://arxiv.org/pdf/2310.05869.pdf)|⚠️ |⭐️⭐️⭐️⭐️⭐️ |    
+|2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space|[[arxiv][pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️⭐️⭐️ |
 
 ### KV Cache Scheduling/Quantize/Compress  
 <div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
@@ -108,7 +109,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|⚠️|⭐️⭐️⭐️ |    
 |2023.10|🔥🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.10|🔥🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS|[[arxiv][pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
-
+|2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
 
 ### Weight/Activation Quantize/Compress
 <div id="Weight-Activation-Quantize-Compress"></div>  
