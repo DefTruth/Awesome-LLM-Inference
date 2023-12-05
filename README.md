@@ -36,7 +36,8 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 
 <div id="paperlist"></div>  
 
-### 📖Contents
+### 📖Contents 
+* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
@@ -46,6 +47,16 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 * [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
 * [Sampling、Position Embed、Others](#Others)
+
+### LLM Algorithmic/Eval Survey 
+<div id="LLM-Algorithmic-Eval-Survey"></div>  
+
+|Date|Title|Paper|Code|Recommend|
+|:---:|:---:|:---:|:---:|:---:|   
+|2023.10|[Evaluating] Evaluating Large Language Models: A Comprehensive Survey| [[arxiv][pdf]](https://arxiv.org/pdf/2310.19736.pdf)|[[GitHub][Awesome-LLMs-Evaluation]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)  ![](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers.svg?style=social) |⭐️⭐️⭐️ | 
+|2023.11|[ChatGPT Anniversary] ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?| [[arxiv][pdf]](https://arxiv.org/pdf/2311.16989.pdf)|⚠️|⭐️⭐️⭐️ | 
+|2023.12|[Algorithmic Survey] The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | [[arxiv][pdf]](https://arxiv.org/pdf/2312.00678.pdf)|⚠️|⭐️⭐️⭐️ | 
+|2023.12|[ Security and Privacy] A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly| [[arxiv][pdf]](https://arxiv.org/pdf/2312.02003.pdf)|⚠️|⭐️⭐️⭐️ | 
 
 ### LLM Train/Inference Framework  
 <div id="LLM-Train-Inference-Framework"></div>  
