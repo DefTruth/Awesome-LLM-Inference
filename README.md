@@ -32,6 +32,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 * [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
 * [LLM CPU/Single GPU Inference](#LLM-CPU-Single-GPU-Inference)
+* [Non Transformer Architecture](#Non-Transformer-Architecture)
 * [Sampling、Position Embedding & Others](#Others)
 
 ### LLM Train/Inference Framework  
@@ -126,6 +127,14 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |:---:|:---:|:---:|:---:|:---:| 
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[arxiv][pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[GitHub][FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|⭐️⭐️⭐️ |          
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[GitHub][intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |⭐️⭐️⭐️ |     
+
+### Non Transformer Architecture  
+<div id="Non-Transformer-Architecture"></div>  
+
+|Date|Title|Paper|Code|Recommend|
+|:---:|:---:|:---:|:---:|:---:| 
+|2023.12|🔥🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[arxiv][pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[GitHub][mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
+
 
 ### Sampling、Position Embedding & Others
 <div id="Others"></div>  
