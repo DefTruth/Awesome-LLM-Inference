@@ -140,12 +140,12 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 ## 📙Blogs About LLM Inference
 Here are some of my ZhiHu blogs about LLM Inference, only avaliable in Chinese now.
 
-|Date|Title|About Paper/Code/Framework|    
+|Date|Title|About|    
 |:---:|:---:|:---:|  
-|2023.10|[[大模型推理][WINT8/4][00]🔥通俗易懂讲解-快速反量化算法](https://zhuanlan.zhihu.com/p/657072856) | 🔥🔥[[**WINT8/4**][arxiv][pdf]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][01]🔥PRMT指令详解及FasterTransformer源码解析](https://zhuanlan.zhihu.com/p/657070837) | 🔥🔥[[**WINT8/4**][arxiv][pdf]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][02]🔥快速反量化之INT8转BF16](https://zhuanlan.zhihu.com/p/657073159) | 🔥🔥[[**WINT8/4**][arxiv][pdf]](https://arxiv.org/pdf/2211.10017.pdf) |
-|2023.10|[[大模型推理][WINT8/4][03]🔥LOP3指令详解及INT4转FP16/BF16分析](https://zhuanlan.zhihu.com/p/657073857) | 🔥🔥[[**WINT8/4**][arxiv][pdf]](https://arxiv.org/pdf/2211.10017.pdf) |
+|2023.10|[[大模型推理][WINT8/4][00]🔥通俗易懂讲解-快速反量化算法](https://zhuanlan.zhihu.com/p/657072856) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
+|2023.10|[[大模型推理][WINT8/4][01]🔥PRMT指令详解及FasterTransformer源码解析](https://zhuanlan.zhihu.com/p/657070837) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
+|2023.10|[[大模型推理][WINT8/4][02]🔥快速反量化之INT8转BF16](https://zhuanlan.zhihu.com/p/657073159) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
+|2023.10|[[大模型推理][WINT8/4][03]🔥LOP3指令详解及INT4转FP16/BF16分析](https://zhuanlan.zhihu.com/p/657073857) | [[**WINT8/4**][paper]](https://arxiv.org/pdf/2211.10017.pdf) |
 
 TODO: add more blogs ....
 
