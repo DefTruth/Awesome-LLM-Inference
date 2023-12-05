@@ -133,6 +133,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
+|2023.05|🔥🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era |[[arxiv][pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[GitHub][RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 |2023.12|🔥🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[arxiv][pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[GitHub][mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 
 
