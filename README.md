@@ -103,9 +103,11 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
+|2023.05|[KV Cache Compress] Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time|[[arxiv][pdf]](https://arxiv.org/pdf/2305.17118.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
 |2023.09|🔥🔥[**PagedAttention**] Efficient Memory Management for Large Language  Model Serving with PagedAttention |[[arxiv][pdf]](https://arxiv.org/pdf/2309.06180.pdf)|[[GitHub][vllm]](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |     
 |2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization | [[ZhiHu Tech Blog]](https://zhuanlan.zhihu.com/p/653735572)|⚠️|⭐️⭐️⭐️ |    
 |2023.10|🔥🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
+|2023.10|🔥🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS|[[arxiv][pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
 
 
 ### Weight/Activation Quantize/Compress
