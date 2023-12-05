@@ -33,7 +33,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
 * [LLM CPU/Single GPU Inference](#LLM-CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
-* [Sampling、Position Embedding & Others](#Others)
+* [Sampling、Position Embed、Others](#Others)
 
 ### LLM Train/Inference Framework  
 <div id="LLM-Train-Inference-Framework"></div>  
@@ -137,7 +137,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.12|🔥🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[arxiv][pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[GitHub][mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 
 
-### Sampling、Position Embedding & Others
+### Sampling、Position Embed、Others
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recommend|
