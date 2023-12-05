@@ -24,7 +24,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 
 <div id="paperlist"></div>  
 
-### Contents 📖💡
+### 📖Contents
 * [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
