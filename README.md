@@ -31,7 +31,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 * [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
 * [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
-* [LLM CPU Inference](#LLM-CPU-Inference)
+* [LLM CPU/Single GPU Inference](#LLM-CPU-Single-GPU-Inference)
 * [Others](#Others)
 
 
@@ -119,8 +119,8 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️⭐️⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️⭐️⭐️ |     
 
-### LLM CPU Inference
-<div id="LLM-CPU-Inference"></div>  
+### LLM CPU/Single GPU Inference
+<div id="LLM-CPU--Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
