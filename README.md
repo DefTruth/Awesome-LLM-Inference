@@ -23,6 +23,17 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Blogs|Tech Report|Docs]** with codes, please check [📙Awesome LLM Inference Papers with Codes](#paperlist) for more details.
 
+## ©️Citations 
+
+```BibTeX
+@misc{Awesome-LLM-Inference@2023,
+  title={Awesome-LLM-Inference: A small collection for Awesome LLM Inference Papers with codes},
+  url={https://github.com/DefTruth/Awesome-LLM-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
+  author={Yanjun Qiu},
+  year={2023}
+}
+```
 
 ## 🎉Download PDFs  
 
