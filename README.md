@@ -128,6 +128,7 @@ Awesome-LLM-Inference: A small collection for Awesome LLM Inference **[Papers|Bl
 |2023.10|🔥🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.10|🔥🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS|[[arxiv][pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
+|2023.06|[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models|[[arxiv][pdf]](https://arxiv.org/pdf/2306.14048.pdf)|[[GitHub][H2O]](https://github.com/FMInference/H2O) ![](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social) |⭐️⭐️⭐️ |  
 
 ### Weight/Activation Quantize/Compress
 <div id="Weight-Activation-Quantize-Compress"></div>  
