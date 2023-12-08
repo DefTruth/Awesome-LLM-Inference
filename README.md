@@ -21,7 +21,7 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers with Codes](#paperlist), ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
+Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers with Codes](#paperlist), contains [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey), [LLM Train/Inference Framework](#LLM-Train-Inference-Framework), [Continuous/In-flight Batching](#Continuous-In-flight-Batching), [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization),  [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress), [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress) etc. ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
 
 ## ©️Citations 
 
@@ -44,7 +44,6 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 </div>   
 
 ## 📙Awesome LLM Inference Papers with Codes  
-
 <div id="paperlist"></div>  
 
 ### 📖Contents 
@@ -131,6 +130,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.10|🔥🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.10|🔥🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS|[[arxiv][pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
+|2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
 ### Weight/Activation Quantize/Compress
 <div id="Weight-Activation-Quantize-Compress"></div>  
@@ -171,6 +171,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[arxiv][pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[GitHub][FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|⭐️⭐️⭐️ |          
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[GitHub][intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |⭐️⭐️⭐️ |     
 |2023.12|[LinguaLinked] LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices|[[arxiv][pdf]](https://arxiv.org/pdf/2312.00388.pdf)|⚠️ |⭐️⭐️⭐️ | 
+|2023.12|[OpenVINO] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
 ### Non Transformer Architecture  
 <div id="Non-Transformer-Architecture"></div>  
