@@ -23,18 +23,6 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers with Codes](#paperlist). ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
 
-### 📖Contents 
-* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
-* [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
-* [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
-* [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
-* [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
-* [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
-* [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
-* [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
-* [Non Transformer Architecture](#Non-Transformer-Architecture)
-* [Sampling、Position Embed、Others](#Others)
-
 ## ©️Citations 
 
 ```BibTeX
@@ -58,7 +46,19 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 ## 📙Awesome LLM Inference Papers with Codes   
 <div id="paperlist"></div>  
 
-### LLM Algorithmic/Eval Survey   
+### 📖Contents 
+* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
+* [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
+* [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
+* [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
+* [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
+* [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
+* [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
+* [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
+* [Non Transformer Architecture](#Non-Transformer-Architecture)
+* [Sampling、Position Embed、Others](#Others)
+
+### 📖LLM Algorithmic/Eval Survey   
 <div id="LLM-Algorithmic-Eval-Survey"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -70,7 +70,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.12|[Security and Privacy] A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly| [[arxiv][pdf]](https://arxiv.org/pdf/2312.02003.pdf)|⚠️|⭐️⭐️⭐️ | 
 |2023.12|🔥🔥[**LLMCompass**] A Hardware Evaluation Framework for Large Language Model Inference | [[arxiv][pdf]](https://arxiv.org/pdf/2312.03134.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 
-### LLM Train/Inference Framework  
+### 📖LLM Train/Inference Framework  
 <div id="LLM-Train-Inference-Framework"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -85,7 +85,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.10|🔥🔥[**TensorRT-LLM**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.11|🔥🔥[**DeepSpeed-FastGen 2x vLLM?**] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference| [[github][blog]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | [[GitHub][deepspeed-fastgen]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |  
 
-### Continuous/In-flight Batching  
+### 📖Continuous/In-flight Batching  
 <div id="Continuous-In-flight-Batching"></div>    
 
 |Date|Title|Paper|Code|Recommend|
@@ -95,7 +95,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.11|🔥🔥[**DeepSpeed-FastGen 2x vLLM?**] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference| [[github][blog]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | [[GitHub][deepspeed-fastgen]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |  
 |2023.11|[Splitwise] Splitwise: Efficient Generative LLM Inference Using Phase Splitting|[[arxiv][pdf]](https://arxiv.org/pdf/2311.18677.pdf)|⚠️ |⭐️⭐️⭐️ |   
 
-### Weight/Activation Quantize/Compress
+### 📖Weight/Activation Quantize/Compress
 <div id="Weight-Activation-Quantize-Compress"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -116,7 +116,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.10|[LLM-FP4] LLM-FP4: 4-Bit Floating-Point Quantized Transformers | [[arxiv][pdf]](https://arxiv.org/pdf/2310.16836.pdf) | [[GitHub][LLM-FP4]](https://github.com/nbasyl/LLM-FP4) ![](https://img.shields.io/github/stars/nbasyl/LLM-FP4.svg?style=social) |⭐️⭐️⭐️ |    
 |2023.11|[2-bit LLM] Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization |[[arxiv][pdf]](https://arxiv.org/pdf/2311.16442.pdf)|⚠️ |⭐️⭐️⭐️ | 
 
-### IO/FLOPs-Aware Attention Optimization
+### 📖IO/FLOPs-Aware Attention Optimization
 <div id="IO-FLOPs-Aware-Attention-Optimization"></div>   
 
 |Date|Title|Paper|Code|Recommend|
@@ -136,7 +136,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.11|🔥🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time|[[arxiv][pdf]](https://arxiv.org/pdf/2310.05869.pdf)|⚠️ |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space|[[arxiv][pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️⭐️⭐️ |
 
-### KV Cache Scheduling/Quantize/Compress  
+### 📖KV Cache Scheduling/Quantize/Compress  
 <div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -152,7 +152,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
-### GEMM、Tensor Cores、WMMA  
+### 📖GEMM、Tensor Cores、WMMA  
 <div id="GEMM-Tensor-Cores-WMMA"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -161,7 +161,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️⭐️⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️⭐️⭐️ |     
 
-### LLM CPU/Single GPU/Mobile Inference
+### 📖LLM CPU/Single GPU/Mobile Inference
 <div id="LLM-CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -171,7 +171,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.12|[LinguaLinked] LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices|[[arxiv][pdf]](https://arxiv.org/pdf/2312.00388.pdf)|⚠️ |⭐️⭐️⭐️ | 
 |2023.12|[OpenVINO] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
-### Non Transformer Architecture  
+### 📖Non Transformer Architecture  
 <div id="Non-Transformer-Architecture"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -179,7 +179,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.05|🔥🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era |[[arxiv][pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[GitHub][RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 |2023.12|🔥🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[arxiv][pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[GitHub][mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 
-### Sampling、Position Embed、Others
+### 📖Sampling、Position Embed、Others
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recommend|
