@@ -21,7 +21,18 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers with Codes](#paperlist), contains [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey), [LLM Train/Inference Framework](#LLM-Train-Inference-Framework), [Continuous/In-flight Batching](#Continuous-In-flight-Batching), [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization),  [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress), [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress), [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA), [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference), [Non Transformer Architecture](#Non-Transformer-Architecture) and [Sampling、Position Embed、Others](#Others) . ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
+Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers with Codes](#paperlist). ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
+### 📖Contents 
+* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
+* [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
+* [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
+* [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
+* [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
+* [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
+* [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
+* [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
+* [Non Transformer Architecture](#Non-Transformer-Architecture)
+* [Sampling、Position Embed、Others](#Others)
 
 ## ©️Citations 
 
@@ -45,18 +56,6 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 
 ## 📙Awesome LLM Inference Papers with Codes  
 <div id="paperlist"></div>  
-
-### 📖Contents 
-* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
-* [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
-* [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
-* [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
-* [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
-* [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
-* [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
-* [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
-* [Non Transformer Architecture](#Non-Transformer-Architecture)
-* [Sampling、Position Embed、Others](#Others)
 
 ### LLM Algorithmic/Eval Survey 
 <div id="LLM-Algorithmic-Eval-Survey"></div>  
