@@ -27,7 +27,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ```BibTeX
 @misc{Awesome-LLM-Inference@2023,
-  title={Awesome-LLM-Inference: A small collection for Awesome LLM Inference Papers with codes},
+  title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
   url={https://github.com/DefTruth/Awesome-LLM-Inference},
   note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
   author={Yanjun Qiu},
