@@ -161,7 +161,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
-### Early-Exit/Intermediate Layer Decoding
+### 📖Early-Exit/Intermediate Layer Decoding
 <div id="Early-Exit"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -171,7 +171,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**LITE**] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE | [[arxiv][pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 |2023.12|🔥🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism | [[arxiv][pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[GitHub][EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 
-### Parallel Decoding/Sampling   
+### 📖Parallel Decoding/Sampling   
 <div id="Parallel-Decoding-Sampling"></div>    
 
 |Date|Title|Paper|Code|Recommend|
