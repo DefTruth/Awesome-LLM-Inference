@@ -120,6 +120,7 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.11|[2-bit LLM] Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization |[[arxiv][pdf]](https://arxiv.org/pdf/2311.16442.pdf)|⚠️ |⭐️⭐️⭐️ | 
 |2023.12|[**SmoothQuant+**] SmoothQuant+: Accurate and Efficient 4-bit Post-Training Weight Quantization for LLM  | [[arxiv][pdf]](https://arxiv.org/pdf/2312.03788.pdf) | [[GitHub][smoothquantplus]](https://github.com/Adlik/smoothquantplus) ![](https://img.shields.io/github/stars/Adlik/smoothquantplus.svg?style=social) |⭐️⭐️⭐️ |    
 |2023.11|[OdysseyLLM W4A8] A Speed Odyssey for Deployable Quantization of LLMs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.09550.pdf)|⚠️|⭐️⭐️⭐️ | 
+|2023.12|🔥[**SparQ**] SPARQ ATTENTION: BANDWIDTH-EFFICIENT LLM INFERENCE|[[arxiv][pdf]](https://arxiv.org/pdf/2312.04985.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 
 ### 📖IO/FLOPs-Aware Attention Optimization
 <div id="IO-FLOPs-Aware-Attention-Optimization"></div>   
@@ -139,7 +140,8 @@ Awesome-LLM-Inference: A small collection for [📙Awesome LLM Inference Papers 
 |2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS | [[arxiv][pdf]](https://arxiv.org/pdf/2311.01282.pdf) | ⚠️ |⭐️⭐️⭐️ |    
 |2023.01|[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot| [[arxiv][pdf]](https://arxiv.org/pdf/2301.00774.pdf)| [[GitHub][sparsegpt]](https://github.com/IST-DASLab/sparsegpt) ![](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social) |⭐️⭐️⭐️ |    
 |2023.11|🔥🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time|[[arxiv][pdf]](https://arxiv.org/pdf/2310.05869.pdf)|⚠️ |⭐️⭐️⭐️⭐️⭐️ |    
-|2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space|[[arxiv][pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️⭐️⭐️ |
+|2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space|[[arxiv][pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️⭐️⭐️ |  
+|2023.12|🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism | [[arxiv][pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[GitHub][EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 
 ### 📖KV Cache Scheduling/Quantize/Compress  
 <div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
