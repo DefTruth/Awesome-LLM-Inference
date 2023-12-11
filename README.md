@@ -174,7 +174,6 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
-|2023.09|🔥🔥[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS|[[arxiv][pdf]](https://arxiv.org/pdf/2309.17453.pdf)|[[GitHub][streaming-llm]](https://github.com/mit-han-lab/streaming-llm) ![](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)|⭐️⭐️⭐️ |  
 |2023.09|🔥🔥[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️⭐️ |    
 
 ### 📖LLM CPU/Single GPU/Mobile Inference
