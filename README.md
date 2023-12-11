@@ -166,7 +166,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
-|2023.10|🔥[**LITE*8] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE | [[arxiv][pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
+|2023.10|🔥[**LITE**] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE | [[arxiv][pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 |2023.12|🔥🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism | [[arxiv][pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[GitHub][EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 
 ### Parallel Decoding/Sampling   
