@@ -204,13 +204,11 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️⭐️⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️⭐️⭐️ |     
 
-### 📖Sampling、Position Embed、Others
+### 📖Position Embed、Others
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:|   
-|2019.11|🔥🔥[MQA] Fast Transformer Decoding: One Write-Head is All You Need | [[arxiv][pdf]](https://arxiv.org/pdf/1911.02150.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ |  
-|2023.05|🔥🔥🔥[**GQA**] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints | [[arxiv][pdf]](https://arxiv.org/pdf/2305.13245.pdf)|[[GitHub][flaxformer]](https://github.com/google/flaxformer) ![](https://img.shields.io/github/stars/google/flaxformer.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ | 
 |2021.04|🔥🔥[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING |[[arxiv][pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[GitHub][transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|⭐️⭐️⭐️ |     
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[arxiv][pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[GitHub][ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️⭐️⭐️ |       
 
