@@ -166,6 +166,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 |Date|Title|Paper|Code|Recommend|
 |:---:|:---:|:---:|:---:|:---:| 
+|2020.04|[DeeBERT] DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference|[[arxiv][pdf]](https://arxiv.org/pdf/2004.12993.pdf)|⚠️|⭐️⭐️⭐️ | 
+|2021.06|[BERxiT] BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression|[[eacl][pdf]](https://aclanthology.org/2021.eacl-main.8.pdf)|[[GitHub][berxit]](https://github.com/castorini/berxit) ![](https://img.shields.io/github/stars/castorini/berxit.svg?style=social)|⭐️⭐️⭐️ | 
 |2023.10|🔥[**LITE**] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE | [[arxiv][pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 |2023.12|🔥🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism | [[arxiv][pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[GitHub][EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 
