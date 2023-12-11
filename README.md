@@ -173,8 +173,10 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 <div id="Parallel-Decoding-Sampling"></div>    
 
 |Date|Title|Paper|Code|Recommend|
-|:---:|:---:|:---:|:---:|:---:| 
-|2023.09|🔥🔥[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️⭐️ |    
+|:---:|:---:|:---:|:---:|:---:|   
+|2023.09|🔥🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |    
+|2023.02|🔥🔥[**Speculative Sampling**] Accelerating Large Language Model Decoding with Speculative Sampling|[[arxiv][pdf]](https://arxiv.org/pdf/2302.01318.pdf)| [[GitHub][LLMSpeculativeSampling]](https://github.com/feifeibear/LLMSpeculativeSampling) ![](https://img.shields.io/github/stars/feifeibear/LLMSpeculativeSampling.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ | 
+|2023.05|🔥🔥[**Speculative Sampling**] Fast Inference from Transformers via Speculative Decoding | [[arxiv][pdf]](https://arxiv.org/pdf/2211.17192.pdf)| [[GitHub][LLMSpeculativeSampling]](https://github.com/feifeibear/LLMSpeculativeSampling) ![](https://img.shields.io/github/stars/feifeibear/LLMSpeculativeSampling.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |
 
 ### 📖LLM CPU/Single GPU/Mobile Inference
 <div id="LLM-CPU-Single-GPU-Inference"></div>  
