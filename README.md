@@ -51,7 +51,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
 * [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
-* [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
+* [IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse) 
 * [KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)
 * [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
@@ -126,8 +126,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**SparQ**] SPARQ ATTENTION: BANDWIDTH-EFFICIENT LLM INFERENCE(@graphcore.ai)|[[pdf]](https://arxiv.org/pdf/2312.04985.pdf)|⚠️|⭐️⭐️ | 
 |2023.12|[Agile-Quant] Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge(@Northeastern University&Oracle)|[[pdf]](https://arxiv.org/pdf/2312.05693.pdf)|⚠️|⭐️ | 
 
-### 📖IO/FLOPs-Aware Attention Optimization ([©️back👆🏻](#paperlist))  
-<div id="IO-FLOPs-Aware-Attention-Optimization"></div>   
+### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
+<div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
@@ -156,7 +156,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥🔥[**GQA**] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) | [[pdf]](https://arxiv.org/pdf/2305.13245.pdf)|[[flaxformer]](https://github.com/google/flaxformer) ![](https://img.shields.io/github/stars/google/flaxformer.svg?style=social) |⭐️⭐️ |  
 |2023.05|[KV Cache Compress] Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time(@)|[[pdf]](https://arxiv.org/pdf/2305.17118.pdf)|⚠️|⭐️⭐️ |  
 |2023.06|[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(@Rice University etc)|[[pdf]](https://arxiv.org/pdf/2306.14048.pdf)|[[H2O]](https://github.com/FMInference/H2O) ![](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social) |⭐️ |  
-|2023.06|[Sparse FlashAttention & KV Dropping] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) |[[pdf]](https://arxiv.org/pdf/2306.01160.pdf) | [[dynamic-sparse-flash-attention]](https://github.com/epfml/dynamic-sparse-flash-attention) ![](https://img.shields.io/github/stars/epfml/dynamic-sparse-flash-attention.svg?style=social)|⭐️ |  
+|2023.06|[QK-Sparse Attention] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) |[[pdf]](https://arxiv.org/pdf/2306.01160.pdf) | [[dynamic-sparse-flash-attention]](https://github.com/epfml/dynamic-sparse-flash-attention) ![](https://img.shields.io/github/stars/epfml/dynamic-sparse-flash-attention.svg?style=social)|⭐️ |  
 |2023.09|🔥🔥[**PagedAttention**] Efficient Memory Management for Large Language  Model Serving with PagedAttention(@UC Berkeley etc) |[[pdf]](https://arxiv.org/pdf/2309.06180.pdf)|[[vllm]](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social)|⭐️⭐️ |     
 |2023.09|[KV Cache FP8 + WINT4] Exploration on LLM inference performance optimization(@HPC4AI) | [[blog]](https://zhuanlan.zhihu.com/p/653735572)|⚠️|⭐️ |    
 |2023.10|🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM(@NVIDIA) |[[docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️ |    
