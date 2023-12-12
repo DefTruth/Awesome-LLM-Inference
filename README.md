@@ -152,7 +152,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|  
 |2019.11|🔥[MQA] Fast Transformer Decoding: One Write-Head is All You Need(@Google) | [[pdf]](https://arxiv.org/pdf/1911.02150.pdf)|⚠️|⭐️⭐️ |  
-|2021.07|[LTP] Learned Token Pruning for Transformers(@UC Berkeley etc)| [[pdf]](https://arxiv.org/pdf/2107.00910.pdf)|[[LTP]](https://github.com/kssteven418/LTP) ![](https://img.shields.io/github/stars/kssteven418/LTP.svg?style=social)|⭐️ |  
+|2022.06|[LTP] Learned Token Pruning for Transformers(@UC Berkeley etc)| [[pdf]](https://arxiv.org/pdf/2107.00910.pdf)|[[LTP]](https://github.com/kssteven418/LTP) ![](https://img.shields.io/github/stars/kssteven418/LTP.svg?style=social)|⭐️ |  
 |2023.05|🔥🔥[**GQA**] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) | [[pdf]](https://arxiv.org/pdf/2305.13245.pdf)|[[flaxformer]](https://github.com/google/flaxformer) ![](https://img.shields.io/github/stars/google/flaxformer.svg?style=social) |⭐️⭐️ |  
 |2023.05|[KV Cache Compress] Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time(@)|[[pdf]](https://arxiv.org/pdf/2305.17118.pdf)|⚠️|⭐️⭐️ |  
 |2023.06|[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(@Rice University etc)|[[pdf]](https://arxiv.org/pdf/2306.14048.pdf)|[[H2O]](https://github.com/FMInference/H2O) ![](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social) |⭐️ |  
