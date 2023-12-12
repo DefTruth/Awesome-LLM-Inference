@@ -23,6 +23,9 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
 
+## 🎉🎉News  
+- 致敬word2vec：[10年前，word2vec经典论文就预定了今天的NeurIPS时间检验奖](https://zhuanlan.zhihu.com/p/671791423?utm_campaign=)
+
 ## ©️Citations 
 
 ```BibTeX
