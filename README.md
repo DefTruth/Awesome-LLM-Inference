@@ -52,7 +52,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
 * [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * [IO/FLOPs-Aware Attention Optimization](#IO-FLOPs-Aware-Attention-Optimization) 
-* [KV Cache Scheduling/Quantize/Compress](#KV-Cache-Scheduling-Quantize-Compress)
+* [KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)
 * [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
 * [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
@@ -146,12 +146,13 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google)|[[pdf]](https://arxiv.org/pdf/2310.05869.pdf)|[hyper-attn](https://github.com/insuhan/hyper-attn)  ![](https://img.shields.io/github/stars/insuhan/hyper-attn.svg?style=social)|⭐️⭐️ |    
 |2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space(@Adobe Research etc)|[[pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️ |  
 
-### 📖KV Cache Scheduling/Quantize/Compress ([©️back👆🏻](#paperlist))    
-<div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
+### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
+<div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|  
 |2019.11|🔥[MQA] Fast Transformer Decoding: One Write-Head is All You Need(@Google) | [[pdf]](https://arxiv.org/pdf/1911.02150.pdf)|⚠️|⭐️⭐️ |  
+|2021.07|[LTP] Learned Token Pruning for Transformers(@UC Berkeley etc)| [[pdf]](https://arxiv.org/pdf/2107.00910.pdf)|[[LTP]](https://github.com/kssteven418/LTP) ![](https://img.shields.io/github/stars/kssteven418/LTP.svg?style=social)|⭐️ |  
 |2023.05|🔥🔥[**GQA**] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) | [[pdf]](https://arxiv.org/pdf/2305.13245.pdf)|[[flaxformer]](https://github.com/google/flaxformer) ![](https://img.shields.io/github/stars/google/flaxformer.svg?style=social) |⭐️⭐️ |  
 |2023.05|[KV Cache Compress] Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time(@)|[[pdf]](https://arxiv.org/pdf/2305.17118.pdf)|⚠️|⭐️⭐️ |  
 |2023.06|[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(@Rice University etc)|[[pdf]](https://arxiv.org/pdf/2306.14048.pdf)|[[H2O]](https://github.com/FMInference/H2O) ![](https://img.shields.io/github/stars/FMInference/H2O.svg?style=social) |⭐️ |  
@@ -160,7 +161,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**TensorRT-LLM KV Cache FP8**] NVIDIA TensorRT LLM(@NVIDIA) |[[docs]](https://nvidia.github.io/TensorRT-LLM/precision.html)|[[TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️ |    
 |2023.10|🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS(@illinois.edu&microsoft)|[[pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️ |  
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications(@Chicago University&Microsoft)|[[pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️ |  
-|2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ | 
+|2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
