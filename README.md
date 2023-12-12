@@ -64,7 +64,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
 <div id="LLM-Algorithmic-Eval-Survey"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2023.10|[Evaluating] Evaluating Large Language Models: A Comprehensive Survey| [[pdf]](https://arxiv.org/pdf/2310.19736.pdf)|[[Awesome-LLMs-Evaluation]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)  ![](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers.svg?style=social) |⭐️ |   
 |2023.11|🔥[**Runtime Performance**] Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models | [[pdf]](https://arxiv.org/pdf/2311.03687.pdf)|⚠️|⭐️⭐️ | 
@@ -77,7 +77,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖LLM Train/Inference Framework ([©️back👆🏻](#paperlist))  
 <div id="LLM-Train-Inference-Framework"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2020.05|🔥[**Megatron-LM**] Training Multi-Billion Parameter Language Models Using Model Parallelism|[[pdf]](https://arxiv.org/pdf/1909.08053.pdf)|[[Megatron-LM]](https://github.com/NVIDIA/Megatron-LM) ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)|⭐️⭐️ |    
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|⭐️ |          
@@ -92,7 +92,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2022.07|🔥[**Continuous Batching**] Orca: A Distributed Serving System for Transformer-Based Generative Models |[[pdf]](https://www.usenix.org/system/files/osdi22-yu.pdf)|⚠️|⭐️⭐️ |       
 |2023.10|🔥[**In-flight Batching**] NVIDIA TensorRT LLM Batch Manager |[[docs]](https://nvidia.github.io/TensorRT-LLM/batch_manager.html)|[[TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️ |    
@@ -103,7 +103,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Weight/Activation Quantize/Compress ([©️back👆🏻](#paperlist))  
 <div id="Weight-Activation-Quantize-Compress"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2022.06|🔥[**ZeroQuant**] Efficient and Affordable Post-Training Quantization for Large-Scale Transformers |[[pdf]](https://arxiv.org/pdf/2206.01861.pdf)|[[DeepSpeed]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social)|⭐️⭐️ |     
 |2022.08|[FP8-Quantization] FP8 Quantization: The Power of the Exponent | [[pdf]](https://arxiv.org/pdf/2208.09225.pdf) | ⚠️ |⭐️ |    
@@ -128,7 +128,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖IO/FLOPs-Aware Attention Optimization ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Optimization"></div>   
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2018.05| [Online Softmax] Online normalizer calculation for softmax |[[pdf]](https://arxiv.org/pdf/1805.02867.pdf)|⚠️|⭐️ |    
 |2019.11|🔥[MQA] Fast Transformer Decoding: One Write-Head is All You Need | [[pdf]](https://arxiv.org/pdf/1911.02150.pdf)|⚠️|⭐️⭐️ |  
@@ -148,7 +148,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖KV Cache Scheduling/Quantize/Compress ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|  
 |2019.11|🔥[MQA] Fast Transformer Decoding: One Write-Head is All You Need | [[pdf]](https://arxiv.org/pdf/1911.02150.pdf)|⚠️|⭐️⭐️ |  
 |2023.05|🔥🔥[**GQA**] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints | [[pdf]](https://arxiv.org/pdf/2305.13245.pdf)|[[flaxformer]](https://github.com/google/flaxformer) ![](https://img.shields.io/github/stars/google/flaxformer.svg?style=social) |⭐️⭐️ |  
@@ -164,7 +164,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2020.04|[DeeBERT] DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference|[[pdf]](https://arxiv.org/pdf/2004.12993.pdf)|⚠️|⭐️ | 
 |2021.06|[BERxiT] BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression|[[pdf]](https://aclanthology.org/2021.eacl-main.8.pdf)|[[berxit]](https://github.com/castorini/berxit) ![](https://img.shields.io/github/stars/castorini/berxit.svg?style=social)|⭐️ | 
@@ -174,7 +174,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Parallel Decoding/Sampling ([©️back👆🏻](#paperlist))     
 <div id="Parallel-Decoding-Sampling"></div>    
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2018.11|🔥[**Parallel Decoding**] Blockwise Parallel Decoding for Deep Autoregressive Models| [[pdf]](https://arxiv.org/pdf/1811.03115.pdf)|⚠️ |⭐️⭐️ | 
 |2023.02|🔥[**Speculative Sampling**] Accelerating Large Language Model Decoding with Speculative Sampling|[[pdf]](https://arxiv.org/pdf/2302.01318.pdf)| [[LLMSpeculativeSampling]](https://github.com/feifeibear/LLMSpeculativeSampling) ![](https://img.shields.io/github/stars/feifeibear/LLMSpeculativeSampling.svg?style=social) |⭐️⭐️ | 
@@ -185,7 +185,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖LLM CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="LLM-CPU-Single-GPU-Inference"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2023.03|[FlexGen] High-Throughput Generative Inference of Large Language Models  with a Single GPU |[[pdf]](https://arxiv.org/pdf/2303.06865.pdf)|[[FlexGen]](https://github.com/FMInference/FlexGen) ![](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)|⭐️ |          
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs|[[pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |⭐️ |     
@@ -195,7 +195,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    
 <div id="Non-Transformer-Architecture"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
 |2023.05|🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era |[[pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️ |          
 |2023.12|🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️ |          
@@ -203,7 +203,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖GEMM、Tensor Cores、WMMA ([©️back👆🏻](#paperlist))    
 <div id="GEMM-Tensor-Cores-WMMA"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2018.03|[Tensor Core] NVIDIA Tensor Core Programmability, Performance & Precision |[[pdf]](https://arxiv.org/pdf/1803.04014.pdf)|⚠️|⭐️ |
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️ |       
@@ -212,7 +212,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ### 📖Position Embed、Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  
 
-|Date|Title|Paper|Code|Recommend|
+|Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2021.04|🔥[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING |[[pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|⭐️ |     
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |       
