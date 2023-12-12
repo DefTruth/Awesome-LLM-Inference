@@ -61,7 +61,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [Position Embed、Others](#Others)
 
 
-### 📖LLM Algorithmic/Eval Survey   
+### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
 <div id="LLM-Algorithmic-Eval-Survey"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -74,7 +74,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥🔥[**LLMCompass**] A Hardware Evaluation Framework for Large Language Model Inference | [[arxiv][pdf]](https://arxiv.org/pdf/2312.03134.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 |2023.12|🔥🔥[**Efficient LLMs**] Efficient Large Language Models: A Survey | [[arxiv][pdf]](https://arxiv.org/pdf/2312.03863.pdf)|[[GitHub][Efficient-LLMs-Survey]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)  ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ | 
 
-### 📖LLM Train/Inference Framework  
+### 📖LLM Train/Inference Framework ([©️back👆🏻](#paperlist))  
 <div id="LLM-Train-Inference-Framework"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -89,7 +89,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥🔥[**TensorRT-LLM**] NVIDIA TensorRT LLM |[[TensorRT-LLM’s Docs]](https://nvidia.github.io/TensorRT-LLM/)|[[GitHub][TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.11|🔥🔥[**DeepSpeed-FastGen 2x vLLM?**] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference| [[github][blog]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | [[GitHub][deepspeed-fastgen]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |  
 
-### 📖Continuous/In-flight Batching  
+### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    
 
 |Date|Title|Paper|Code|Recommend|
@@ -100,7 +100,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|[Splitwise] Splitwise: Efficient Generative LLM Inference Using Phase Splitting|[[arxiv][pdf]](https://arxiv.org/pdf/2311.18677.pdf)|⚠️ |⭐️⭐️⭐️ |   
 |2023.12|[SpotServe] SpotServe: Serving Generative Large Language Models on Preemptible Instances|[[arxiv][pdf]](https://arxiv.org/pdf/2311.15566.pdf)|[[GitHub][SpotServe]](https://github.com/Hsword/SpotServe) ![](https://img.shields.io/github/stars/Hsword/SpotServe.svg?style=social)|⭐️⭐️⭐️ |  
 
-### 📖Weight/Activation Quantize/Compress
+### 📖Weight/Activation Quantize/Compress ([©️back👆🏻](#paperlist))  
 <div id="Weight-Activation-Quantize-Compress"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -125,7 +125,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|[OdysseyLLM W4A8] A Speed Odyssey for Deployable Quantization of LLMs|[[arxiv][pdf]](https://arxiv.org/pdf/2311.09550.pdf)|⚠️|⭐️⭐️⭐️ | 
 |2023.12|🔥[**SparQ**] SPARQ ATTENTION: BANDWIDTH-EFFICIENT LLM INFERENCE|[[arxiv][pdf]](https://arxiv.org/pdf/2312.04985.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 
-### 📖IO/FLOPs-Aware Attention Optimization
+### 📖IO/FLOPs-Aware Attention Optimization ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Optimization"></div>   
 
 |Date|Title|Paper|Code|Recommend|
@@ -145,7 +145,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|🔥🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time|[[arxiv][pdf]](https://arxiv.org/pdf/2310.05869.pdf)|⚠️ |⭐️⭐️⭐️⭐️⭐️ |    
 |2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space|[[arxiv][pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️⭐️⭐️ |  
 
-### 📖KV Cache Scheduling/Quantize/Compress  
+### 📖KV Cache Scheduling/Quantize/Compress ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Compress"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -161,7 +161,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications|[[arxiv][pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️⭐️⭐️ |  
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
-### 📖Early-Exit/Intermediate Layer Decoding
+### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -171,7 +171,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**LITE**] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE | [[arxiv][pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️⭐️⭐️⭐️ | 
 |2023.12|🔥🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism | [[arxiv][pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[GitHub][EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️⭐️⭐️⭐️ |    
 
-### 📖Parallel Decoding/Sampling   
+### 📖Parallel Decoding/Sampling ([©️back👆🏻](#paperlist))     
 <div id="Parallel-Decoding-Sampling"></div>    
 
 |Date|Title|Paper|Code|Recommend|
@@ -182,7 +182,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.09|🔥🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads|[[blog]](https://sites.google.com/view/medusa-llm)|[[GitHub][Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |    
 |2023.10|[**OSD**] Online Speculative Decoding | [[arxiv][pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️⭐️⭐️⭐️|
 
-### 📖LLM CPU/Single GPU/Mobile Inference
+### 📖LLM CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="LLM-CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -192,7 +192,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[LinguaLinked] LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices|[[arxiv][pdf]](https://arxiv.org/pdf/2312.00388.pdf)|⚠️ |⭐️⭐️⭐️ | 
 |2023.12|[OpenVINO] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO | [[arxiv][pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️⭐️⭐️ | 
 
-### 📖Non Transformer Architecture  
+### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    
 <div id="Non-Transformer-Architecture"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -200,7 +200,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era |[[arxiv][pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[GitHub][RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 |2023.12|🔥🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces |[[arxiv][pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[GitHub][mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️⭐️⭐️⭐️ |          
 
-### 📖GEMM、Tensor Cores、WMMA  
+### 📖GEMM、Tensor Cores、WMMA ([©️back👆🏻](#paperlist))    
 <div id="GEMM-Tensor-Cores-WMMA"></div>  
 
 |Date|Title|Paper|Code|Recommend|
@@ -209,7 +209,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING |[[arxiv][pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️⭐️⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library |[[arxiv][pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[GitHub][wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️⭐️⭐️ |     
 
-### 📖Position Embed、Others
+### 📖Position Embed、Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  
 
 |Date|Title|Paper|Code|Recommend|
