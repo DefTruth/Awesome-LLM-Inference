@@ -23,9 +23,6 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). ❤️Star🌟👆🏻this repo to support me if it does any helps to you~
 
-## 🎉🎉News  
-- 致敬经典🎉🎉：[10年前，word2vec经典论文就预定了今天的NeurIPS时间检验奖！](https://zhuanlan.zhihu.com/p/671791423?utm_campaign=)
-
 ## ©️Citations 
 
 ```BibTeX
@@ -149,6 +146,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.01|[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot(@ISTA etc)| [[pdf]](https://arxiv.org/pdf/2301.00774.pdf)| [[sparsegpt]](https://github.com/IST-DASLab/sparsegpt) ![](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social) |⭐️ |    
 |2023.11|🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google)|[[pdf]](https://arxiv.org/pdf/2310.05869.pdf)|[hyper-attn](https://github.com/insuhan/hyper-attn)  ![](https://img.shields.io/github/stars/insuhan/hyper-attn.svg?style=social)|⭐️⭐️ |    
 |2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space(@Adobe Research etc)|[[pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️ |  
+|2023.12|🔥[**GLA**] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI)|[[pdf]](https://arxiv.org/pdf/2312.06635.pdf)|[gated_linear_attention](https://github.com/berlino/gated_linear_attention)  ![](https://img.shields.io/github/stars/berlino/gated_linear_attention.svg?style=social)|⭐️⭐️ | 
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
