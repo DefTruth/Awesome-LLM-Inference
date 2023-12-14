@@ -151,6 +151,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space(@Adobe Research etc)|[[pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️ |  
 |2023.12|🔥[**GLA**] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI)|[[pdf]](https://arxiv.org/pdf/2312.06635.pdf)|[gated_linear_attention](https://github.com/berlino/gated_linear_attention)  ![](https://img.shields.io/github/stars/berlino/gated_linear_attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|[SCCA] SCCA: Shifted Cross Chunk Attention for long contextual semantic expansion(@Beihang University)| [[pdf]](https://arxiv.org/pdf/2312.07305.pdf) | ⚠️ |⭐️ |  
+|2023.05|[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch)|[[pdf]](https://arxiv.org/pdf/2305.16300.pdf)|[landmark-attention](https://github.com/epfml/landmark-attention/)  ![](https://img.shields.io/github/stars/epfml/landmark-attention.svg?style=social)|⭐️⭐️ | 
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
