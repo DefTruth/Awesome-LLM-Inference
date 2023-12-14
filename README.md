@@ -55,7 +55,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)
 * [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
-* [LLM CPU/Single GPU/Mobile Inference](#LLM-CPU-Single-GPU-Inference)
+* [CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
 * [Position Embed、Others](#Others)
@@ -191,8 +191,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.09|🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc)|[[blog]](https://sites.google.com/view/medusa-llm)|[[Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️ |    
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|
 
-### 📖LLM CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
-<div id="LLM-CPU-Single-GPU-Inference"></div>  
+### 📖CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
+<div id="CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:| 
