@@ -126,6 +126,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|[OdysseyLLM W4A8] A Speed Odyssey for Deployable Quantization of LLMs(@meituan.com)|[[pdf]](https://arxiv.org/pdf/2311.09550.pdf)|⚠️|⭐️ | 
 |2023.12|🔥[**SparQ**] SPARQ ATTENTION: BANDWIDTH-EFFICIENT LLM INFERENCE(@graphcore.ai)|[[pdf]](https://arxiv.org/pdf/2312.04985.pdf)|⚠️|⭐️⭐️ | 
 |2023.12|[Agile-Quant] Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge(@Northeastern University&Oracle)|[[pdf]](https://arxiv.org/pdf/2312.05693.pdf)|⚠️|⭐️ | 
+|2023.12|[CBQ] CBQ: Cross-Block Quantization for Large Language Models(@ustc.edu.cn)|[[pdf]](https://arxiv.org/pdf/2312.07950.pdf)|⚠️|⭐️ | 
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
