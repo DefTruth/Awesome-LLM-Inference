@@ -196,7 +196,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
 |2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11983.pdf)| ⚠️ |⭐️|   
 
-### Structured Pruning/Knowledge Distillation   
+### 📖Structured Pruning/Knowledge Distillation ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_Knowledge_Distillation"></div>    
 
 |Date|Title|Paper|Code|Recom|
