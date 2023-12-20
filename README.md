@@ -180,6 +180,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2021.06|[BERxiT] BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression(@uwaterloo.ca)|[[pdf]](https://aclanthology.org/2021.eacl-main.8.pdf)|[[berxit]](https://github.com/castorini/berxit) ![](https://img.shields.io/github/stars/castorini/berxit.svg?style=social)|⭐️ | 
 |2023.10|🔥[**LITE**] Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE(@Arizona State University) | [[pdf]](https://arxiv.org/pdf/2310.18581v2.pdf)|⚠️|⭐️⭐️ | 
 |2023.12|🔥🔥[**EE-LLM**] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism(@alibaba-inc.com) | [[pdf]](https://arxiv.org/pdf/2312.04916.pdf)| [[EE-LLM]](https://github.com/pan-x-c/EE-LLM) ![](https://img.shields.io/github/stars/pan-x-c/EE-LLM.svg?style=social) |⭐️⭐️ |    
+|2023.10|🔥[**FREE**] Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding(@KAIST AI&AWS AI)|[[pdf]](https://arxiv.org/pdf/2310.05424.pdf)| [[fast_robust_early_exit]](https://github.com/raymin0223/fast_robust_early_exit) ![](https://img.shields.io/github/stars/raymin0223/fast_robust_early_exit.svg?style=social) |⭐️⭐️ |    
 
 ### 📖Parallel Decoding/Sampling ([©️back👆🏻](#paperlist))     
 <div id="Parallel-Decoding-Sampling"></div>    
