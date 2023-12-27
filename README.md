@@ -90,6 +90,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**TensorRT-LLM**] NVIDIA TensorRT LLM(@NVIDIA) |[[docs]](https://nvidia.github.io/TensorRT-LLM/)|[[TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️ |    
 |2023.11|🔥[**DeepSpeed-FastGen 2x vLLM?**] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference(@Microsoft)| [[blog]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | [[deepspeed-fastgen]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |  
 |2023.12|🔥[**PETALS**] Distributed Inference and Fine-tuning of Large Language Models Over The Internet(@HSE Univesity etc)|[[pdf]](https://arxiv.org/pdf/2312.08361.pdf)|[[petals]](https://github.com/bigscience-workshop/petals) ![](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social)|⭐️⭐️ |    
+|2023.10|[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc)|[[pdf]](https://arxiv.org/pdf/2310.03294.pdf)|[[LightSeq]](https://github.com/RulinShao/LightSeq) ![](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)|⭐️ |    
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    
@@ -100,7 +101,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**In-flight Batching**] NVIDIA TensorRT LLM Batch Manager(@NVIDIA) |[[docs]](https://nvidia.github.io/TensorRT-LLM/batch_manager.html)|[[TensorRT-LLM]](https://github.com/NVIDIA/TensorRT-LLM) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) |⭐️⭐️ |    
 |2023.11|🔥[**DeepSpeed-FastGen 2x vLLM?**] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference(@Microsoft)| [[blog]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | [[deepspeed-fastgen]](https://github.com/microsoft/DeepSpeed) ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg?style=social) |⭐️⭐️ |  
 |2023.11|[Splitwise] Splitwise: Efficient Generative LLM Inference Using Phase Splitting(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2311.18677.pdf)|⚠️ |⭐️ |   
-|2023.12|[SpotServe] SpotServe: Serving Generative Large Language Models on Preemptible Instances(@cmu.edu etc)|[[pdf]](https://arxiv.org/pdf/2311.15566.pdf)|[[SpotServe]](https://github.com/Hsword/SpotServe) ![](https://img.shields.io/github/stars/Hsword/SpotServe.svg?style=social)|⭐️ |  
+|2023.12|[SpotServe] SpotServe: Serving Generative Large Language Models on Preemptible Instances(@cmu.edu etc)|[[pdf]](https://arxiv.org/pdf/2311.15566.pdf)|[[SpotServe]](https://github.com/Hsword/SpotServe) ![](https://img.shields.io/github/stars/Hsword/SpotServe.svg?style=social)|⭐️ |    
+|2023.10|[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc)|[[pdf]](https://arxiv.org/pdf/2310.03294.pdf)|[[LightSeq]](https://github.com/RulinShao/LightSeq) ![](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)|⭐️ |    
 
 ### 📖Weight/Activation Quantize/Compress ([©️back👆🏻](#paperlist))  
 <div id="Weight-Activation-Quantize-Compress"></div>  
