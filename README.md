@@ -56,6 +56,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
 * [Structured Pruning/Knowledge Distillation](#Structured_Pruning_Knowledge_Distillation)
+* [Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)
 * [CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
 * [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
@@ -207,7 +208,14 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |:---:|:---:|:---:|:---:|:---:|     
 |2023.12| [**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
 
+### 📖Mixture-of-Experts(MoE) LLM Inferencen ([©️back👆🏻](#paperlist))    
+<div id="Mixture_of_Experts_LLM_Inference"></div>    
 
+|Date|Title|Paper|Code|Recom|
+|:---:|:---:|:---:|:---:|:---:|     
+|2022.11|🔥[**WINT8/4**] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) |[[pdf]](https://arxiv.org/pdf/2211.10017.pdf)|[[FasterTransformer]](https://github.com/NVIDIA/FasterTransformer) ![](https://img.shields.io/github/stars/NVIDIA/FasterTransformer.svg?style=social)|⭐️⭐️ |     
+|2023.12|🔥 [**Mixtral Offloading**] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc)| [[pdf]](https://arxiv.org/pdf/2312.17238.pdf)| [[mixtral-offloading]](https://github.com/dvmazur/mixtral-offloading) ![](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social)|⭐️⭐️ |  
+  
 ### 📖CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="CPU-Single-GPU-Inference"></div>  
 
