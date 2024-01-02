@@ -207,8 +207,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|     
-|2023.12| [**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
-|2023.12|[**LASER**] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@mit.edu)|[[pdf]](https://arxiv.org/pdf/2312.13558.pdf)| [[laser]](https://github.com/pratyushasharma/laser) ![](https://img.shields.io/github/stars/pratyushasharma/laser.svg?style=social)|⭐️⭐️ |    
+|2023.12|[**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
+|2023.12|🔥[**LASER**] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@mit.edu)|[[pdf]](https://arxiv.org/pdf/2312.13558.pdf)| [[laser]](https://github.com/pratyushasharma/laser) ![](https://img.shields.io/github/stars/pratyushasharma/laser.svg?style=social)|⭐️⭐️ |    
 
 ### 📖Mixture-of-Experts(MoE) LLM Inferencen ([©️back👆🏻](#paperlist))    
 <div id="Mixture_of_Experts_LLM_Inference"></div>    
