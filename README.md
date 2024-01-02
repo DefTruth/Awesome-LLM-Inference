@@ -55,7 +55,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)
 * [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
-* [Structured Pruning/Knowledge Distillation](#Structured_Pruning_Knowledge_Distillation)
+* [Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
 * [Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)
 * [CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
@@ -202,12 +202,13 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
 |2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11983.pdf)| ⚠️ |⭐️|   
 
-### 📖Structured Pruning/Knowledge Distillation ([©️back👆🏻](#paperlist))    
-<div id="Structured_Pruning_Knowledge_Distillation"></div>    
+### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
+<div id="Structured_Pruning_KD_Weight_Sparse"></div>    
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|     
 |2023.12| [**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
+|2023.12|[**LASER**] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@@mit.edu)|[[pdf]](https://arxiv.org/pdf/2312.13558.pdf)| [[laser]](https://github.com/pratyushasharma/laser) ![](https://img.shields.io/github/stars/pratyushasharma/laser.svg?style=social)|⭐️⭐️ |    
 
 ### 📖Mixture-of-Experts(MoE) LLM Inferencen ([©️back👆🏻](#paperlist))    
 <div id="Mixture_of_Experts_LLM_Inference"></div>    
