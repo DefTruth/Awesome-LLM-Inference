@@ -200,14 +200,14 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥[**Speculative Sampling**] Fast Inference from Transformers via Speculative Decoding(@Google Research etc) | [[pdf]](https://arxiv.org/pdf/2211.17192.pdf)| [[LLMSpeculativeSampling]](https://github.com/feifeibear/LLMSpeculativeSampling) ![](https://img.shields.io/github/stars/feifeibear/LLMSpeculativeSampling.svg?style=social) |⭐️⭐️ |
 |2023.09|🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc)|[[blog]](https://sites.google.com/view/medusa-llm)|[[Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️ |    
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
-|2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11983.pdf)| ⚠️ |⭐️|   
+|2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| ⚠️ |⭐️|   
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|     
-|2023.12|[**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
+|2023.12|[**FLAP**] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc)| [[pdf]](https://arxiv.org/pdf/2312.11983.pdf)| [[FLAP]](https://github.com/CASIA-IVA-Lab/FLAP) ![](https://img.shields.io/github/stars/CASIA-IVA-Lab/FLAP.svg?style=social)|⭐️⭐️ |    
 |2023.12|🔥[**LASER**] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@mit.edu)|[[pdf]](https://arxiv.org/pdf/2312.13558.pdf)| [[laser]](https://github.com/pratyushasharma/laser) ![](https://img.shields.io/github/stars/pratyushasharma/laser.svg?style=social)|⭐️⭐️ |    
 |2023.12|[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU)|[[pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)|[[PowerInfer]](https://github.com/SJTU-IPADS/PowerInfer) ![](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social)|⭐️ |    
 
