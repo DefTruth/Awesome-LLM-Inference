@@ -76,6 +76,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**LLMCompass**] A Hardware Evaluation Framework for Large Language Model Inference(@princeton.edu) | [[pdf]](https://arxiv.org/pdf/2312.03134.pdf)|⚠️|⭐️⭐️ | 
 |2023.12|🔥[**Efficient LLMs**] Efficient Large Language Models: A Survey(@Ohio State University etc) | [[pdf]](https://arxiv.org/pdf/2312.03863.pdf)|[[Efficient-LLMs-Survey]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)  ![](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social) |⭐️⭐️ | 
 |2023.12|[**Serving Survey**] Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems(@Carnegie Mellon University) | [[pdf]](https://arxiv.org/pdf/2312.15234.pdf)|⚠️|⭐️⭐️ | 
+|2024.01|[Understanding LLMs] Understanding LLMs: A Comprehensive Overview from Training to Inference(@Shaanxi Normal University etc)| [[pdf]](https://arxiv.org/pdf/2401.02038.pdf) | ⚠️|⭐️⭐️ | 
 
 ### 📖LLM Train/Inference Framework ([©️back👆🏻](#paperlist))  
 <div id="LLM-Train-Inference-Framework"></div>  
