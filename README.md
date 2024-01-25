@@ -95,6 +95,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**PETALS**] Distributed Inference and Fine-tuning of Large Language Models Over The Internet(@HSE Univesity etc)|[[pdf]](https://arxiv.org/pdf/2312.08361.pdf)|[[petals]](https://github.com/bigscience-workshop/petals) ![](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social)|⭐️⭐️ |    
 |2023.10|[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc)|[[pdf]](https://arxiv.org/pdf/2310.03294.pdf)|[[LightSeq]](https://github.com/RulinShao/LightSeq) ![](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)|⭐️ |    
 |2023.12|[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU)|[[pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)|[[PowerInfer]](https://github.com/SJTU-IPADS/PowerInfer) ![](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social)|⭐️ |    
+|2024.01|[inferflow]INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS(@Tencent AI Lab)|[[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [[inferflow]](https://github.com/inferflow/inferflow) ![](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)|⭐️ |
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    
