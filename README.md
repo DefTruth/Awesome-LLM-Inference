@@ -182,6 +182,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ |    
 |2023.11|🔥[Prompt Cache] PROMPT CACHE: MODULAR ATTENTION REUSE FOR LOW-LATENCY INFERENCE(@Yale University etc)|[[pdf]](https://arxiv.org/pdf/2311.04934.pdf)|⚠️|⭐️⭐️ |
 |2024.01|🔥🔥[**DistKV-LLM**] Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache(@Alibaba etc)|[[pdf]](https://arxiv.org/pdf/2401.02669.pdf)|⚠️|⭐️⭐️ |
+|2024.01|🔥🔥[KVQuant] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley)|[[pdf]](https://browse.arxiv.org/pdf/2401.18079.pdf)|[[KVQuant]](https://github.com/SqueezeAILab/KVQuant/) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |⭐️⭐️ |
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
