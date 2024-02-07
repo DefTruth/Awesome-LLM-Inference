@@ -21,7 +21,7 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), please check [📖Contents](#paperlist) for more details.
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), please check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍
 
 ## ©️Citations 
 
