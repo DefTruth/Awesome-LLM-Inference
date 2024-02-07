@@ -208,6 +208,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.09|🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc)|[[pdf]](https://arxiv.org/pdf/2401.10774.pdf)|[[Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️ |    
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
 |2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| ⚠️ |⭐️|   
+|2024.02|🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.02057.pdf)| [[LookaheadDecoding]](https://github.com/hao-ai-lab/LookaheadDecoding) ![](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social) |⭐️⭐️ | 
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    
