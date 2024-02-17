@@ -59,7 +59,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * [Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)
 * [CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
 * [Non Transformer Architecture](#Non-Transformer-Architecture)
-* [GEMM、Tensor Cores、WMMA](#GEMM-Tensor-Cores-WMMA)  
+* [GEMM、Tensor Cores、WMMA、Parallel](#GEMM-Tensor-Cores-WMMA)  
 * [Position Embed、Others](#Others)
 
 
@@ -249,7 +249,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|🔥🔥[**RWKV**] RWKV: Reinventing RNNs for the Transformer Era(@Bo Peng etc) |[[pdf]](https://arxiv.org/pdf/2305.13048.pdf)|[[RWKV-LM]](https://github.com/BlinkDL/RWKV-LM) ![](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social)|⭐️⭐️ |          
 |2023.12|🔥🔥[**Mamba**] Mamba: Linear-Time Sequence Modeling with Selective State Spaces(@cs.cmu.edu etc) |[[pdf]](https://arxiv.org/pdf/2312.00752.pdf)|[[mamba]](https://github.com/state-spaces/mamba) ![](https://img.shields.io/github/stars/state-spaces/mamba.svg?style=social)|⭐️⭐️ |          
 
-### 📖GEMM、Tensor Cores、WMMA ([©️back👆🏻](#paperlist))    
+### 📖GEMM、Tensor Cores、WMMA、Parallel ([©️back👆🏻](#paperlist))    
 <div id="GEMM-Tensor-Cores-WMMA"></div>  
 
 |Date|Title|Paper|Code|Recom|
@@ -258,6 +258,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING(@NVIDIA) |[[pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library(@Tokyo Institute etc) |[[pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️ |   
 |2024.02|[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc)|[[pdf]](https://arxiv.org/pdf/2402.10076.pdf)|[[QUICK]](https://github.com/SqueezeBits/QUICK) ![](https://img.shields.io/github/stars/SqueezeBits/QUICK.svg?style=social)|⭐️⭐️ |
+|2024.02|[Tensor Parallel] TP-AWARE DEQUANTIZATION(@IBM T.J. Watson Research Center)|[[pdf]](https://arxiv.org/pdf/2402.04925.pdf)|⚠️|⭐️ | 
 
 ### 📖Position Embed、Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  
