@@ -162,6 +162,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[SCCA] SCCA: Shifted Cross Chunk Attention for long contextual semantic expansion(@Beihang University)| [[pdf]](https://arxiv.org/pdf/2312.07305.pdf) | ⚠️ |⭐️ |  
 |2023.05|[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch)|[[pdf]](https://arxiv.org/pdf/2305.16300.pdf)|[landmark-attention](https://github.com/epfml/landmark-attention/)  ![](https://img.shields.io/github/stars/epfml/landmark-attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|🔥[**FlashLLM**] LLM in a flash: Efficient Large Language Model Inference with Limited Memory(@Apple)| [[pdf]](https://arxiv.org/pdf/2312.11514.pdf) | ⚠️ |⭐️⭐️ |  
+|2024.02|[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
