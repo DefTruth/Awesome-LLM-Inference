@@ -223,7 +223,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.01|[**Admm Pruning**] Fast and Optimal Weight Update for Pruned Large Language Models(@fmph.uniba.sk)|[[pdf]](https://arxiv.org/pdf/2401.02938.pdf)|[[admm-pruning]](https://github.com/fmfi-compbio/admm-pruning) ![](https://img.shields.io/github/stars/fmfi-compbio/admm-pruning.svg?style=social)|⭐️ |    
 |2024.01|[FFSplit] FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference(@1Rice University etc) | [[pdf]](https://arxiv.org/pdf/2401.04044.pdf) |  ⚠️ |⭐️|   
 
-### 📖Mixture-of-Experts(MoE) LLM Inferencen ([©️back👆🏻](#paperlist))    
+### 📖Mixture-of-Experts(MoE) LLM Inference ([©️back👆🏻](#paperlist))    
 <div id="Mixture_of_Experts_LLM_Inference"></div>    
 
 |Date|Title|Paper|Code|Recom|
