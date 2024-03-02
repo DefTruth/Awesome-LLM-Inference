@@ -164,6 +164,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.05|[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch)|[[pdf]](https://arxiv.org/pdf/2305.16300.pdf)|[landmark-attention](https://github.com/epfml/landmark-attention/)  ![](https://img.shields.io/github/stars/epfml/landmark-attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|🔥[**FlashLLM**] LLM in a flash: Efficient Large Language Model Inference with Limited Memory(@Apple)| [[pdf]](https://arxiv.org/pdf/2312.11514.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.02|[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
+|2023.07|🔥[**LightningAttention-1**] TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2307.14995.pdf)|[TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM)  ![](https://img.shields.io/github/stars/OpenNLPLab/TransnormerLLM.svg?style=social)|⭐️⭐️ |   
+|2023.07|🔥[**LightningAttention-2**] Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2401.04658.pdf)|[lightning-attention](https://github.com/OpenNLPLab/lightning-attention)  ![](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention.svg?style=social)|⭐️⭐️ |   
+
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
