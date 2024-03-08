@@ -16,7 +16,7 @@
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
-  <img src=https://img.shields.io/badge/release-v0.3-yellow.svg >
+  <img src=https://img.shields.io/badge/release-v0.4-yellow.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
@@ -137,7 +137,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[Agile-Quant] Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge(@Northeastern University&Oracle)|[[pdf]](https://arxiv.org/pdf/2312.05693.pdf)|⚠️|⭐️ | 
 |2023.12|[CBQ] CBQ: Cross-Block Quantization for Large Language Models(@ustc.edu.cn)|[[pdf]](https://arxiv.org/pdf/2312.07950.pdf)|⚠️|⭐️ | 
 |2023.10|[QLLM] QLLM: ACCURATE AND EFFICIENT LOW-BITWIDTH QUANTIZATION FOR LARGE LANGUAGE MODELS(@ZIP Lab&SenseTime Research etc)|[[pdf]](https://arxiv.org/pdf/2310.08041.pdf)|⚠️|⭐️ | 
-|2024.01|[FP6-LLM] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2401.14112.pdf)|⚠️|⭐️ | 
+|2024.01|[FP6-LLM] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2401.14112.pdf)|⚠️|⭐️ |  
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
@@ -188,7 +188,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|🔥[Prompt Cache] PROMPT CACHE: MODULAR ATTENTION REUSE FOR LOW-LATENCY INFERENCE(@Yale University etc)|[[pdf]](https://arxiv.org/pdf/2311.04934.pdf)|⚠️|⭐️⭐️ |
 |2024.01|🔥🔥[**DistKV-LLM**] Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache(@Alibaba etc)|[[pdf]](https://arxiv.org/pdf/2401.02669.pdf)|⚠️|⭐️⭐️ |
 |2024.01|🔥🔥[KVQuant] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley)|[[pdf]](https://browse.arxiv.org/pdf/2401.18079.pdf)|[[KVQuant]](https://github.com/SqueezeAILab/KVQuant/) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |⭐️⭐️ |  
-|2024.02|🔥🔥[Prompt Caching] Efficient Prompt Caching via Embedding Similarity(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.01173.pdf)|⚠️|⭐️⭐️ |
+|2024.02|🔥🔥[Prompt Caching] Efficient Prompt Caching via Embedding Similarity(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.01173.pdf)|⚠️|⭐️⭐️ |  
+|2024.03|🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2403.04643.pdf)|[[QAQ-KVCacheQuantization]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) ![](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization.svg?style=social) |⭐️⭐️ |  
 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
