@@ -35,32 +35,25 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 }
 ```
 
-## 🎉Download PDFs  
-
-[@Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
-
-<div align='center'>
-<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
-</div>   
-
 ## 📙Awesome LLM Inference Papers with Codes   
 <div id="paperlist"></div>  
 
 ### 📖Contents 
-* [LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
-* [LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
-* [Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)
-* [Continuous/In-flight Batching](#Continuous-In-flight-Batching)
-* [IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse) 
-* [KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)
-* [Early-Exit/Intermediate Layer Decoding](#Early-Exit)
-* [Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)
-* [Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
-* [Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)
-* [CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
-* [Non Transformer Architecture](#Non-Transformer-Architecture)
-* [GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
-* [Position Embed/Others](#Others)
+* 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
+* 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
+* 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
+* 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
+* 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
+* 📖[KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)🔥
+* 📖[Long Context Attention/KV Cache Optimization](#Long-Context-Attention-KVCache)🔥🔥
+* 📖[Early-Exit/Intermediate Layer Decoding](#Early-Exit)
+* 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
+* 📖[Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
+* 📖[Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)🔥
+* 📖[CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
+* 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
+* 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
+* 📖[Position Embed/Others](#Others)
 
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
@@ -157,16 +150,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**Flash-Decoding**] Flash-Decoding for long-context inference(@Stanford University etc)|[[blog]](https://crfm.stanford.edu/2023/10/12/flashdecoding.html)|[[flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|⭐️⭐️ |      
 |2023.11|[Flash-Decoding++] FLASHDECODING++: FASTER LARGE LANGUAGE MODEL INFERENCE ON GPUS(@Tsinghua University&Infinigence-AI) | [[pdf]](https://arxiv.org/pdf/2311.01282.pdf) | ⚠️ |⭐️ |    
 |2023.01|[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot(@ISTA etc)| [[pdf]](https://arxiv.org/pdf/2301.00774.pdf)| [[sparsegpt]](https://github.com/IST-DASLab/sparsegpt) ![](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social) |⭐️ |    
-|2023.11|🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google)|[[pdf]](https://arxiv.org/pdf/2310.05869.pdf)|[hyper-attn](https://github.com/insuhan/hyper-attn)  ![](https://img.shields.io/github/stars/insuhan/hyper-attn.svg?style=social)|⭐️⭐️ |    
-|2023.11|[Streaming Attention Approximation] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space(@Adobe Research etc)|[[pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️ |  
 |2023.12|🔥[**GLA**] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI)|[[pdf]](https://arxiv.org/pdf/2312.06635.pdf)|[gated_linear_attention](https://github.com/berlino/gated_linear_attention)  ![](https://img.shields.io/github/stars/berlino/gated_linear_attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|[SCCA] SCCA: Shifted Cross Chunk Attention for long contextual semantic expansion(@Beihang University)| [[pdf]](https://arxiv.org/pdf/2312.07305.pdf) | ⚠️ |⭐️ |  
-|2023.05|[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch)|[[pdf]](https://arxiv.org/pdf/2305.16300.pdf)|[landmark-attention](https://github.com/epfml/landmark-attention/)  ![](https://img.shields.io/github/stars/epfml/landmark-attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|🔥[**FlashLLM**] LLM in a flash: Efficient Large Language Model Inference with Limited Memory(@Apple)| [[pdf]](https://arxiv.org/pdf/2312.11514.pdf) | ⚠️ |⭐️⭐️ |  
-|2024.02|[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
-|2023.07|🔥[**LightningAttention-1**] TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2307.14995.pdf)|[TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM)  ![](https://img.shields.io/github/stars/OpenNLPLab/TransnormerLLM.svg?style=social)|⭐️⭐️ |   
-|2023.07|🔥[**LightningAttention-2**] Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2401.04658.pdf)|[lightning-attention](https://github.com/OpenNLPLab/lightning-attention)  ![](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention.svg?style=social)|⭐️⭐️ |   
-
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
@@ -185,12 +171,25 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥[**Adaptive KV Cache Compress**] MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS(@illinois.edu&microsoft)|[[pdf]](https://arxiv.org/pdf/2310.01801.pdf)|⚠️|⭐️⭐️ |  
 |2023.10|[CacheGen] CacheGen: Fast Context Loading for Language Model Applications(@Chicago University&Microsoft)|[[pdf]](https://arxiv.org/pdf/2310.07240.pdf)|⚠️|⭐️ |  
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ |    
-|2023.11|🔥[Prompt Cache] PROMPT CACHE: MODULAR ATTENTION REUSE FOR LOW-LATENCY INFERENCE(@Yale University etc)|[[pdf]](https://arxiv.org/pdf/2311.04934.pdf)|⚠️|⭐️⭐️ |
 |2024.01|🔥🔥[**DistKV-LLM**] Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache(@Alibaba etc)|[[pdf]](https://arxiv.org/pdf/2401.02669.pdf)|⚠️|⭐️⭐️ |
-|2024.01|🔥🔥[KVQuant] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley)|[[pdf]](https://browse.arxiv.org/pdf/2401.18079.pdf)|[[KVQuant]](https://github.com/SqueezeAILab/KVQuant/) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |⭐️⭐️ |  
 |2024.02|🔥🔥[Prompt Caching] Efficient Prompt Caching via Embedding Similarity(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.01173.pdf)|⚠️|⭐️⭐️ |  
 |2024.03|🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2403.04643.pdf)|[[QAQ-KVCacheQuantization]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) ![](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization.svg?style=social) |⭐️⭐️ |  
 
+### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
+<div id="Long-Context-Attention-KVCache"></div>  
+
+|Date|Title|Paper|Code|Recom|  
+|:---:|:---:|:---:|:---:|:---:|      
+|2024.02|🔥[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
+|2023.05|🔥[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch)|[[pdf]](https://arxiv.org/pdf/2305.16300.pdf)|[landmark-attention](https://github.com/epfml/landmark-attention/)  ![](https://img.shields.io/github/stars/epfml/landmark-attention.svg?style=social)|⭐️⭐️ | 
+|2023.07|🔥[**LightningAttention-1**] TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2307.14995.pdf)|[TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM)  ![](https://img.shields.io/github/stars/OpenNLPLab/TransnormerLLM.svg?style=social)|⭐️⭐️ |   
+|2023.07|🔥[**LightningAttention-2**] Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models(@OpenNLPLab)|[[pdf]](https://arxiv.org/pdf/2401.04658.pdf)|[lightning-attention](https://github.com/OpenNLPLab/lightning-attention)  ![](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention.svg?style=social)|⭐️⭐️ |   
+|2023.11|🔥[**HyperAttention**] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google)|[[pdf]](https://arxiv.org/pdf/2310.05869.pdf)|[hyper-attn](https://github.com/insuhan/hyper-attn)  ![](https://img.shields.io/github/stars/insuhan/hyper-attn.svg?style=social)|⭐️⭐️ |    
+|2023.11|[**Streaming Attention**] One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space(@Adobe Research etc)|[[pdf]](https://arxiv.org/pdf/2311.14652.pdf)|⚠️ |⭐️ |  
+|2023.10|🔥🔥[**RingAttention**] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2310.01889.pdf)| [[RingAttention]](https://github.com/lhao499/RingAttention) ![](https://img.shields.io/github/stars/lhao499/RingAttention.svg?style=social)|⭐️⭐️ |
+|2023.11|🔥[**Prompt Cache**] PROMPT CACHE: MODULAR ATTENTION REUSE FOR LOW-LATENCY INFERENCE(@Yale University etc)|[[pdf]](https://arxiv.org/pdf/2311.04934.pdf)|⚠️|⭐️⭐️ |
+|2024.01|🔥🔥[**KVQuant**] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley)|[[pdf]](https://browse.arxiv.org/pdf/2401.18079.pdf)|[[KVQuant]](https://github.com/SqueezeAILab/KVQuant/) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |⭐️⭐️ | 
+|2023.11|🔥🔥[**StripedAttention**] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@Cambridge etc)|[[paf]](https://arxiv.org/pdf/2311.09431.pdf) |[[striped_attention]](https://github.com/exists-forall/striped_attention/) ![](https://img.shields.io/github/stars/exists-forall/striped_attention.svg?style=social) |⭐️⭐️ | 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
@@ -236,7 +235,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.11|🔥[**WINT8/4**] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) |[[pdf]](https://arxiv.org/pdf/2211.10017.pdf)|[[FasterTransformer]](https://github.com/NVIDIA/FasterTransformer) ![](https://img.shields.io/github/stars/NVIDIA/FasterTransformer.svg?style=social)|⭐️⭐️ |     
 |2023.12|🔥 [**Mixtral Offloading**] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc)| [[pdf]](https://arxiv.org/pdf/2312.17238.pdf)| [[mixtral-offloading]](https://github.com/dvmazur/mixtral-offloading) ![](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social)|⭐️⭐️ |
 |2024.01| [MoE-Mamba] MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts(@uw.edu.pl) |  [[pdf]](https://arxiv.org/pdf/2401.04081.pdf)| ⚠️ |⭐️|   
-  
+
 ### 📖CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="CPU-Single-GPU-Inference"></div>  
 
@@ -275,11 +274,20 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |       
 
 
+## 🎉Download PDFs  
+
+[@Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
+
+<div align='center'>
+<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
+</div>   
+
+
 ## ©️License  
 
 GNU General Public License v3.0  
 
 ## 🎉Contribute  
 
-Welcome to submit a PR to this repo! 
+Welcome to star & submit a PR to this repo! 
 
