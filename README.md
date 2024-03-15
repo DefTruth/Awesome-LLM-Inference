@@ -153,6 +153,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**GLA**] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI)|[[pdf]](https://arxiv.org/pdf/2312.06635.pdf)|[gated_linear_attention](https://github.com/berlino/gated_linear_attention)  ![](https://img.shields.io/github/stars/berlino/gated_linear_attention.svg?style=social)|⭐️⭐️ | 
 |2023.12|[SCCA] SCCA: Shifted Cross Chunk Attention for long contextual semantic expansion(@Beihang University)| [[pdf]](https://arxiv.org/pdf/2312.07305.pdf) | ⚠️ |⭐️ |  
 |2023.12|🔥[**FlashLLM**] LLM in a flash: Efficient Large Language Model Inference with Limited Memory(@Apple)| [[pdf]](https://arxiv.org/pdf/2312.11514.pdf) | ⚠️ |⭐️⭐️ |  
+|2024.03|🔥🔥[CHAI] CHAI: Clustered Head Attention for Efficient LLM Inference(@cs.wisc.edu etc)| [[pdf]](https://arxiv.org/pdf/2403.08058.pdf) | ⚠️ |⭐️⭐️ |  
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
@@ -173,7 +174,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[KV-Cache Optimizations] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ |    
 |2024.01|🔥🔥[**DistKV-LLM**] Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache(@Alibaba etc)|[[pdf]](https://arxiv.org/pdf/2401.02669.pdf)|⚠️|⭐️⭐️ |
 |2024.02|🔥🔥[Prompt Caching] Efficient Prompt Caching via Embedding Similarity(@UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.01173.pdf)|⚠️|⭐️⭐️ |  
-|2024.03|🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2403.04643.pdf)|[[QAQ-KVCacheQuantization]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) ![](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization.svg?style=social) |⭐️⭐️ |  
+|2024.03|🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2403.04643.pdf)|[[QAQ-KVCacheQuantization]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) ![](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization.svg?style=social) |⭐️⭐️ |   
+|2024.03|🔥🔥[DMC] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference(@NVIDIA etc)|[[pdf]](https://arxiv.org/pdf/2403.09636.pdf)|⚠️|⭐️⭐️ |  
+|2024.03|🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc)|[[pdf]](https://arxiv.org/pdf/2403.09054.pdf)|⚠️|⭐️⭐️ | 
 
 ### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
 <div id="Long-Context-Attention-KVCache"></div>  
