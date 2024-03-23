@@ -1,15 +1,3 @@
-<!--
-<div align='center'>
-  <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
-<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
-  <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
-  </picture>
-</a>
-</div>
--->
 
 ![llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
@@ -24,7 +12,7 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), please check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), please check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ & submit a PR to this repo!
 
 ## ©️Citations 
 
@@ -310,4 +298,17 @@ GNU General Public License v3.0
 ## 🎉Contribute  
 
 Welcome to star & submit a PR to this repo! 
+
+<div align='center'>
+  <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
+<a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
+  <picture align='center'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+    <img width="350" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/Awesome-LLM-Inference&type=Date" />
+  </picture>
+</a>
+</div>
+
+
 
