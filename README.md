@@ -7,7 +7,7 @@
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
-  <img src=https://img.shields.io/badge/release-v0.4-yellow.svg >
+  <img src=https://img.shields.io/badge/Release-v0.4-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
