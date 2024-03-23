@@ -6,8 +6,8 @@
   <img src=https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
-  <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
-  <img src=https://img.shields.io/badge/Release-v0.4-brightgreen.svg >
+  <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-LLM-Inference.svg?style=social >
+  <img src=https://img.shields.io/badge/Release-v0.5-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
