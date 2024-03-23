@@ -1,4 +1,4 @@
-
+<!--
 <div align='center'>
   <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
 <a href="https://star-history.com/#DefTruth/Awesome-LLM-Inference&Date">
@@ -9,6 +9,9 @@
   </picture>
 </a>
 </div>
+-->
+
+![llm-inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
