@@ -36,7 +36,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
 * 📖[KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)🔥
-* 📖[Context Compression](#Context-Compression)🔥
+* 📖[Prompt/Context Compression](#Context-Compression)🔥
 * 📖[Long Context Attention/KV Cache Optimization](#Long-Context-Attention-KVCache)🔥🔥
 * 📖[Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
@@ -172,7 +172,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥🔥[DMC] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference(@NVIDIA etc)|[[pdf]](https://arxiv.org/pdf/2403.09636.pdf)|⚠️|⭐️⭐️ |  
 |2024.03|🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc)|[[pdf]](https://arxiv.org/pdf/2403.09054.pdf)|⚠️|⭐️⭐️ | 
 
-### 📖Context Compression ([©️back👆🏻](#paperlist))    
+### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
 
 |Date|Title|Paper|Code|Recom|
