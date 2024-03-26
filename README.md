@@ -14,6 +14,17 @@
 ## 📒Introduction
 Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), please check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ & submit a PR to this repo!
 
+## ©️Citations 
+
+```BibTeX
+@misc{Awesome-LLM-Inference@2024,
+  title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
+  url={https://github.com/DefTruth/Awesome-LLM-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
+  author={DefTruth, liyucheng09 etc},
+  year={2024}
+}
+```
 
 ## 📙Awesome LLM Inference Papers with Codes   
 <div id="paperlist"></div>  
@@ -288,17 +299,7 @@ GNU General Public License v3.0
 
 Welcome to star & submit a PR to this repo! 
 
-## ©️Citations 
 
-```BibTeX
-@misc{Awesome-LLM-Inference@2024,
-  title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
-  url={https://github.com/DefTruth/Awesome-LLM-Inference},
-  note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
-  author={DefTruth, liyucheng09 etc},
-  year={2024}
-}
-```
 <!--
 <div align='center'>
   <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
