@@ -172,6 +172,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥🔥[DMC] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference(@NVIDIA etc)|[[pdf]](https://arxiv.org/pdf/2403.09636.pdf)|⚠️|⭐️⭐️ |  
 |2024.03|🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc)|[[pdf]](https://arxiv.org/pdf/2403.09054.pdf)|⚠️|⭐️⭐️ | 
 |2024.03|[FASTDECODE] FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous(@Tsinghua University)|[[pdf]](https://arxiv.org/pdf/2403.11421.pdf)|⚠️|⭐️⭐️ | 
+|2024.03|[Sparsity-Aware KV Caching] ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching(@ucf.edu)|[[pdf]](https://arxiv.org/pdf/2403.17312.pdf)|⚠️|⭐️⭐️ | 
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
