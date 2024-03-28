@@ -42,7 +42,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
 * 📖[Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
 * 📖[Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)🔥
-* 📖[CPU/Single GPU/Mobile Inference](#CPU-Single-GPU-Inference)
+* 📖[CPU/Single GPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
 * 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
 * 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
 * 📖[Position Embed/Others](#Others)
@@ -246,7 +246,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥 [**Mixtral Offloading**] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc)| [[pdf]](https://arxiv.org/pdf/2312.17238.pdf)| [[mixtral-offloading]](https://github.com/dvmazur/mixtral-offloading) ![](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social)|⭐️⭐️ |
 |2024.01| [MoE-Mamba] MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts(@uw.edu.pl) |  [[pdf]](https://arxiv.org/pdf/2401.04081.pdf)| ⚠️ |⭐️|   
 
-### 📖CPU/Single GPU/Mobile Inference ([©️back👆🏻](#paperlist))  
+### 📖CPU/Single GPU/FPGA/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="CPU-Single-GPU-Inference"></div>  
 
 |Date|Title|Paper|Code|Recom|
@@ -255,6 +255,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|[LLM CPU Inference] Efficient LLM Inference on CPUs(@intel)|[[pdf]](https://arxiv.org/pdf/2311.00502.pdf)| [[intel-extension-for-transformers]](https://github.com/intel/intel-extension-for-transformers) ![](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social) |⭐️ |     
 |2023.12|[LinguaLinked] LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices(@University of California Irvine)|[[pdf]](https://arxiv.org/pdf/2312.00388.pdf)|⚠️ |⭐️ | 
 |2023.12|[OpenVINO] Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO(@Haim Barad etc) | [[pdf]](https://arxiv.org/pdf/2311.04951.pdf)|⚠️|⭐️ | 
+|2024.03|[FlightLLM] FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(@Infinigence-AI) | [[pdf]](https://arxiv.org/pdf/2401.03868.pdf)|⚠️|⭐️ | 
 
 ### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    
 <div id="Non-Transformer-Architecture"></div>  
