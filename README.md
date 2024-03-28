@@ -171,6 +171,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn)|[[pdf]](https://arxiv.org/pdf/2403.04643.pdf)|[[QAQ-KVCacheQuantization]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) ![](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization.svg?style=social) |⭐️⭐️ |   
 |2024.03|🔥🔥[DMC] Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference(@NVIDIA etc)|[[pdf]](https://arxiv.org/pdf/2403.09636.pdf)|⚠️|⭐️⭐️ |  
 |2024.03|🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc)|[[pdf]](https://arxiv.org/pdf/2403.09054.pdf)|⚠️|⭐️⭐️ | 
+|2024.03|[FASTDECODE] FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous(@Tsinghua University)|[[pdf]](https://arxiv.org/pdf/2403.11421.pdf)|⚠️|⭐️⭐️ | 
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
