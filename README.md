@@ -175,6 +175,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc)|[[pdf]](https://arxiv.org/pdf/2403.09054.pdf)|⚠️|⭐️⭐️ | 
 |2024.03|[FASTDECODE] FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous(@Tsinghua University)|[[pdf]](https://arxiv.org/pdf/2403.11421.pdf)|⚠️|⭐️⭐️ | 
 |2024.03|[Sparsity-Aware KV Caching] ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching(@ucf.edu)|[[pdf]](https://arxiv.org/pdf/2403.17312.pdf)|⚠️|⭐️⭐️ | 
+|2024.04|[SqueezeAttention] SQUEEZEATTENTION: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget(@lzu.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.04793.pdf)|[[SqueezeAttention]](https://github.com/hetailang/SqueezeAttention) ![](https://img.shields.io/github/stars/hetailang/SqueezeAttention.svg?style=social) |⭐️⭐️ |   
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
