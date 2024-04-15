@@ -204,6 +204,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.11|🔥🔥[**StripedAttention**] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc)|[[pdf]](https://arxiv.org/pdf/2311.09431.pdf) |[[striped_attention]](https://github.com/exists-forall/striped_attention/) ![](https://img.shields.io/github/stars/exists-forall/striped_attention.svg?style=social) |⭐️⭐️ | 
 |2024.01|🔥🔥[**KVQuant**] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley)|[[pdf]](https://browse.arxiv.org/pdf/2401.18079.pdf)|[[KVQuant]](https://github.com/SqueezeAILab/KVQuant/) ![](https://img.shields.io/github/stars/SqueezeAILab/KVQuant.svg?style=social) |⭐️⭐️ | 
 |2024.02|🔥[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
+|2024.04|🔥🔥[Infini-attention] Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention(@Google) | [[pdf]](https://arxiv.org/pdf/2404.07143.pdf) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
