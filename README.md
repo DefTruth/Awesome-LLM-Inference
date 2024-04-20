@@ -230,7 +230,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
 |2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| ⚠️ |⭐️|   
 |2024.02|🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.02057.pdf)| [[LookaheadDecoding]](https://github.com/hao-ai-lab/LookaheadDecoding) ![](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social) |⭐️⭐️ |   
-|2024.02| [speculative Decoding] Decoding Speculative Decoding(@cs.wisc.edu)|[[pdf]](https://arxiv.org/pdf/2402.01528.pdf)| ⚠️ |⭐️|   
+|2024.02|🔥🔥[**Speculative Decoding**] Decoding Speculative Decoding(@cs.wisc.edu)|[[pdf]](https://arxiv.org/pdf/2402.01528.pdf)| ⚠️ |⭐️|   
+|2024.04|🔥🔥[**Hidden Transfer**] Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration(@pku.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.12022.pdf)| ⚠️ |⭐️|
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    
