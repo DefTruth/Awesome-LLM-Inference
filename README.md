@@ -29,6 +29,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 ## 📙Awesome LLM Inference Papers with Codes   
 <div id="paperlist"></div>  
 
+![LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/29f8f014-7611-4108-93ce-beb67a1ed506)
+
 ### 📖Contents 
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
