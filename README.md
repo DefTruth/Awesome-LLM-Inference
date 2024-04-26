@@ -285,6 +285,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
 |2018.03|[Tensor Core] NVIDIA Tensor Core Programmability, Performance & Precision(@KTH Royal etc) |[[pdf]](https://arxiv.org/pdf/1803.04014.pdf)|⚠️|⭐️ |
+|2022.06|[Microbenchmark] Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors(@tue.nl etc) |[[pdf]](https://arxiv.org/pdf/2206.02874.pdf)|[[DissectingTensorCores]](https://github.com/sunlex0717/DissectingTensorCores) ![](https://img.shields.io/github/stars/sunlex0717/DissectingTensorCores.svg?style=social)|⭐️ |   
 |2022.09|[FP8] FP8 FORMATS FOR DEEP LEARNING(@NVIDIA) |[[pdf]](https://arxiv.org/pdf/2209.05433.pdf)|⚠️|⭐️ |       
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library(@Tokyo Institute etc) |[[pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️ |   
 |2024.02|[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc)|[[pdf]](https://arxiv.org/pdf/2402.10076.pdf)|[[QUICK]](https://github.com/SqueezeBits/QUICK) ![](https://img.shields.io/github/stars/SqueezeBits/QUICK.svg?style=social)|⭐️⭐️ |
