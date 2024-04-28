@@ -31,7 +31,16 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 ![LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/358e897b-3af7-4913-9006-9f17b1d7e2cb)
 
-### 📖Contents 
+## 🎉Download PDFs  
+
+[Awesome LLM Inference for Beginners.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
+
+<div align='center'>
+<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
+</div>   
+
+
+## 📖Contents 
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -301,16 +310,6 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |:---:|:---:|:---:|:---:|:---:|   
 |2021.04|🔥[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING(@Zhuiyi Technology Co., Ltd.) |[[pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|⭐️ |     
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |       
-
-
-## 🎉Download PDFs  
-
-[@Awesome-LLM-Inference-v0.3.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
-
-<div align='center'>
-<img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
-</div>   
-
 
 ## ©️License  
 
