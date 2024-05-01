@@ -48,7 +48,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
 * 📖[KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)🔥
 * 📖[Prompt/Context Compression](#Context-Compression)🔥
-* 📖[RAG/Long Context Attention/KV Cache Optimization](#RAG-Long-Context-Attention-KVCache)🔥🔥
+* 📖[Long Context Attention/KV Cache Optimization](#Long-Context-Attention-KVCache)🔥🔥
 * 📖[Early-Exit/Intermediate Layer Decoding](#Early-Exit)
 * 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
 * 📖[Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
@@ -204,8 +204,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|🔥🔥[**LongLLMLingua**] LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression(@Microsoft) | [[pdf]](https://arxiv.org/abs/2310.06839)|[LLMLingua](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️⭐️ |
 |2024.03|🔥[**LLMLingua-2**] LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression(@Microsoft) | [[pdf]](https://arxiv.org/pdf/2403.12968.pdf)|[LLMLingua series](https://github.com/microsoft/LLMLingua)  ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social)|⭐️ | 
 
-### 📖RAG/Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
-<div id="RAG-Long-Context-Attention-KVCache"></div>  
+### 📖Long Context Attention/KV Cache Optimization ([©️back👆🏻](#paperlist))    
+<div id="Long-Context-Attention-KVCache"></div>  
 
 |Date|Title|Paper|Code|Recom|  
 |:---:|:---:|:---:|:---:|:---:|      
@@ -222,6 +222,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.02|🔥[**RelayAttention**] RelayAttention for Efficient Large Language Model Serving with Long System Prompts(@sensetime.com etc)|[[pdf]](https://arxiv.org/pdf/2402.14808.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[Infini-attention] Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention(@Google) | [[pdf]](https://arxiv.org/pdf/2404.07143.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[RAGCache] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation(@Peking University&ByteDance Inc) | [[pdf]](https://arxiv.org/pdf/2404.12457.pdf) | ⚠️ |⭐️⭐️ |  
+|2024.04|🔥🔥[**KCache**] EFFICIENT LLM INFERENCE WITH KCACHE(@Qiaozhi He, Zhihua Wu)| [[pdf]](https://arxiv.org/pdf/2404.18057) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
