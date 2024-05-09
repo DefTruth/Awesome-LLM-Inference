@@ -193,6 +193,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|🔥[GEAR] GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM(@gatech.edu)|[[pdf]](https://arxiv.org/pdf/2403.05527)|[[GEAR]](https://github.com/opengear-project/GEAR) ![](https://img.shields.io/github/stars/opengear-project/GEAR.svg?style=social)|⭐️ | 
 |2024.04|[SqueezeAttention] SQUEEZEATTENTION: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget(@lzu.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.04793.pdf)|[[SqueezeAttention]](https://github.com/hetailang/SqueezeAttention) ![](https://img.shields.io/github/stars/hetailang/SqueezeAttention.svg?style=social) |⭐️⭐️ |   
 |2024.04|[SnapKV] SnapKV: LLM Knows What You are Looking for Before Generation(@UIUC)|[[pdf]](https://arxiv.org/pdf/2404.14469)|[[SnapKV]](https://github.com/FasterDecoding/SnapKV) ![](https://img.shields.io/github/stars/FasterDecoding/SnapKV.svg?style=social)|⭐️ | 
+|2024.05|🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India)|[pdf]](https://arxiv.org/pdf/2405.04437)|⚠️|⭐️⭐️ | 
 
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
