@@ -133,6 +133,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|[CBQ] CBQ: Cross-Block Quantization for Large Language Models(@ustc.edu.cn)|[[pdf]](https://arxiv.org/pdf/2312.07950.pdf)|⚠️|⭐️ | 
 |2023.10|[QLLM] QLLM: ACCURATE AND EFFICIENT LOW-BITWIDTH QUANTIZATION FOR LARGE LANGUAGE MODELS(@ZIP Lab&SenseTime Research etc)|[[pdf]](https://arxiv.org/pdf/2310.08041.pdf)|⚠️|⭐️ | 
 |2024.01|[FP6-LLM] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2401.14112.pdf)|⚠️|⭐️ |  
+|2024.05|🔥🔥[**W4A8KV4**] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2405.04532)|[[qserve]](https://github.com/mit-han-lab/qserve) ![](https://img.shields.io/github/stars/mit-han-lab/qserve.svg?style=social) |⭐️⭐️ |  
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
