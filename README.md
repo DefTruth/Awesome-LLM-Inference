@@ -41,6 +41,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 
 ## 📖Contents 
+* 📖[Trending LLM/LMM Topics](#Trending-LLM-LMM-Topics)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -57,6 +58,14 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
 * 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
 * 📖[Position Embed/Others](#Others)
+
+### 📖Trending LLM/LMM Topics ([©️back👆🏻](#paperlist))  
+<div id="Trending-LLM-LMM-Topics"></div>  
+
+|Date|Title|Paper|Code|Recom|
+|:---:|:---:|:---:|:---:|:---:|   
+|2024.05| 🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI)|[[pdf]](https://arxiv.org/pdf/2405.04434) | [[DeepSeek-V2]](https://github.com/deepseek-ai/DeepSeek-V2) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social)| ⭐️⭐️ | 
+
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
 <div id="LLM-Algorithmic-Eval-Survey"></div>  
@@ -277,6 +286,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥 [**Mixtral Offloading**] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc)| [[pdf]](https://arxiv.org/pdf/2312.17238.pdf)| [[mixtral-offloading]](https://github.com/dvmazur/mixtral-offloading) ![](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social)|⭐️⭐️ |
 |2024.01| [MoE-Mamba] MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts(@uw.edu.pl) |  [[pdf]](https://arxiv.org/pdf/2401.04081.pdf)| ⚠️ |⭐️|   
 |2024.04| [MoE Inference] Toward Inference-optimal Mixture-of-Expert Large Language Models(@UC San Diego etc)| [[pdf]](https://arxiv.org/pdf/2404.02852.pdf)| ⚠️ |⭐️|   
+|2024.05| 🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI)|[[pdf]](https://arxiv.org/pdf/2405.04434) | [[DeepSeek-V2]](https://github.com/deepseek-ai/DeepSeek-V2) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social)| ⭐️⭐️ | 
+
+
 
 ### 📖CPU/Single GPU/FPGA/Mobile Inference ([©️back👆🏻](#paperlist))  
 <div id="CPU-Single-GPU-Inference"></div>  
