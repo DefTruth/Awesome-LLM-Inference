@@ -67,6 +67,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.04| 🔥🔥🔥[Open-Sora] Open-Sora: Democratizing Efficient Video Production for All(@hpcaitech)|[[docs]](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md) | [[Open-Sora]](https://github.com/hpcaitech/Open-Sora) ![](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social)| ⭐️⭐️ | 
 |2024.04| 🔥🔥🔥[Open-Sora Plan] Open-Sora Plan: This project aim to reproduce Sora (Open AI T2V model)(@PKU)|[[report]](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md) | [[Open-Sora-Plan]](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ![](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social)| ⭐️⭐️ | 
 |2024.05| 🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI)|[[pdf]](https://arxiv.org/pdf/2405.04434) | [[DeepSeek-V2]](https://github.com/deepseek-ai/DeepSeek-V2) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social)| ⭐️⭐️ | 
+|2024.05|🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft)| [[pdf]](https://arxiv.org/pdf/2405.05254) | [[unilm-YOCO]](https://github.com/microsoft/unilm/tree/master/YOCO) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) |⭐️⭐️ |  
 
 
 ### 📖LLM Algorithmic/Eval Survey ([©️back👆🏻](#paperlist))  
