@@ -258,15 +258,15 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 <div id="Parallel-Decoding-Sampling"></div>    
 
 |Date|Title|Paper|Code|Recom|
-|:---:|:---:|:---:|:---:|:---:|   
-|2018.11|🔥[**Parallel Decoding**] Blockwise Parallel Decoding for Deep Autoregressive Models(@Berkeley&Google)| [[pdf]](https://arxiv.org/pdf/1811.03115.pdf)|⚠️ |⭐️⭐️ | 
-|2023.02|🔥[**Speculative Sampling**] Accelerating Large Language Model Decoding with Speculative Sampling(@DeepMind)|[[pdf]](https://arxiv.org/pdf/2302.01318.pdf)| ⚠️ |⭐️⭐️ | 
+|:---:|:---:|:---:|:---:|:---:|
+|2018.11|🔥[**Parallel Decoding**] Blockwise Parallel Decoding for Deep Autoregressive Models(@Berkeley&Google)| [[pdf]](https://arxiv.org/pdf/1811.03115.pdf)|⚠️ |⭐️⭐️ |
+|2023.02|🔥[**Speculative Sampling**] Accelerating Large Language Model Decoding with Speculative Sampling(@DeepMind)|[[pdf]](https://arxiv.org/pdf/2302.01318.pdf)| ⚠️ |⭐️⭐️ |
 |2023.05|🔥[**Speculative Sampling**] Fast Inference from Transformers via Speculative Decoding(@Google Research etc) | [[pdf]](https://arxiv.org/pdf/2211.17192.pdf)| [[LLMSpeculativeSampling]](https://github.com/feifeibear/LLMSpeculativeSampling) ![](https://img.shields.io/github/stars/feifeibear/LLMSpeculativeSampling.svg?style=social) |⭐️⭐️ |
-|2023.09|🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc)|[[pdf]](https://arxiv.org/pdf/2401.10774.pdf)|[[Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️ |    
-|2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|  
-|2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| ⚠️ |⭐️|   
-|2024.02|🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.02057.pdf)| [[LookaheadDecoding]](https://github.com/hao-ai-lab/LookaheadDecoding) ![](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social) |⭐️⭐️ |   
-|2024.02|🔥🔥[**Speculative Decoding**] Decoding Speculative Decoding(@cs.wisc.edu)|[[pdf]](https://arxiv.org/pdf/2402.01528.pdf)| ⚠️ |⭐️|   
+|2023.09|🔥[**Medusa**] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc)|[[pdf]](https://arxiv.org/pdf/2401.10774.pdf)|[[Medusa]](https://github.com/FasterDecoding/Medusa) ![](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)|⭐️⭐️ |
+|2023.10|[**OSD**] Online Speculative Decoding(@UC Berkeley etc) | [[pdf]](https://arxiv.org/pdf/2310.07177.pdf)| ⚠️ |⭐️⭐️|
+|2023.12|[**Cascade Speculative**] Cascade Speculative Drafting for Even Faster LLM Inference(@illinois.edu) | [[pdf]](https://arxiv.org/pdf/2312.11462.pdf)| ⚠️ |⭐️|
+|2024.02|🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley)|[[pdf]](https://arxiv.org/pdf/2402.02057.pdf)| [[LookaheadDecoding]](https://github.com/hao-ai-lab/LookaheadDecoding) ![](https://img.shields.io/github/stars/hao-ai-lab/LookaheadDecoding.svg?style=social) |⭐️⭐️ |
+|2024.02|🔥🔥[**Speculative Decoding**] Decoding Speculative Decoding(@cs.wisc.edu)|[[pdf]](https://arxiv.org/pdf/2402.01528.pdf)| [Decoding Speculative Decoding](https://github.com/uw-mad-dash/decoding-speculative-decoding) ![](https://img.shields.io/github/stars/uw-mad-dash/decoding-speculative-decoding.svg?style=social) |⭐️|
 |2024.04|🔥🔥[**TriForce**] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(@cmu.edu&Meta AI)|[[pdf]](https://arxiv.org/pdf/2404.11912) | [[TriForce]](https://github.com/Infini-AI-Lab/TriForce) ![](https://img.shields.io/github/stars/Infini-AI-Lab/TriForce.svg?style=social)|⭐️⭐️ |
 |2024.04|🔥🔥[**Hidden Transfer**] Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration(@pku.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.12022.pdf)| ⚠️ |⭐️|
 
@@ -355,5 +355,4 @@ Welcome to star & submit a PR to this repo!
 </a>
 </div>
 -->
-
 
