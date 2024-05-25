@@ -241,7 +241,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.04|🔥🔥[RAGCache] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation(@Peking University&ByteDance Inc) | [[pdf]](https://arxiv.org/pdf/2404.12457.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[**KCache**] EFFICIENT LLM INFERENCE WITH KCACHE(@Qiaozhi He, Zhihua Wu)| [[pdf]](https://arxiv.org/pdf/2404.18057) | ⚠️ |⭐️⭐️ |  
 |2024.05|🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft)| [[pdf]](https://arxiv.org/pdf/2405.05254) | [[unilm-YOCO]](https://github.com/microsoft/unilm/tree/master/YOCO) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) |⭐️⭐️ |  
-|2024.05|🔥🔥[SQKV] SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models(@Shanghai AI Laboratory)| [[pdf]](https://arxiv.org/pdf/2405.06219) | ⚠️ |⭐️⭐️ |  
+|2024.05|🔥🔥[SKVQ] SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models(@Shanghai AI Laboratory)| [[pdf]](https://arxiv.org/pdf/2405.06219) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
