@@ -271,6 +271,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.02|🔥🔥[**Speculative Decoding**] Decoding Speculative Decoding(@cs.wisc.edu)|[[pdf]](https://arxiv.org/pdf/2402.01528.pdf)| [Decoding Speculative Decoding](https://github.com/uw-mad-dash/decoding-speculative-decoding) ![](https://img.shields.io/github/stars/uw-mad-dash/decoding-speculative-decoding.svg?style=social) |⭐️|
 |2024.04|🔥🔥[**TriForce**] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(@cmu.edu&Meta AI)|[[pdf]](https://arxiv.org/pdf/2404.11912) | [[TriForce]](https://github.com/Infini-AI-Lab/TriForce) ![](https://img.shields.io/github/stars/Infini-AI-Lab/TriForce.svg?style=social)|⭐️⭐️ |
 |2024.04|🔥🔥[**Hidden Transfer**] Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration(@pku.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.12022.pdf)| ⚠️ |⭐️|
+|2024.05|🔥[Instructive Decoding] INSTRUCTIVE DECODING: INSTRUCTION-TUNED LARGE LANGUAGE MODELS ARE SELF-REFINER FROM NOISY INSTRUCTIONS(@KAIST AI)|[[pdf]](https://openreview.net/pdf?id=LebzzClHYw)| [[Instructive-Decoding]](https://github.com/joonkeekim/Instructive-Decoding) ![](https://img.shields.io/github/stars/joonkeekim/Instructive-Decoding.svg?style=social)|⭐️ |
+
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
 <div id="Structured_Pruning_KD_Weight_Sparse"></div>    
