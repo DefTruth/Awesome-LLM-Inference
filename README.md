@@ -146,6 +146,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[QLLM] QLLM: ACCURATE AND EFFICIENT LOW-BITWIDTH QUANTIZATION FOR LARGE LANGUAGE MODELS(@ZIP Lab&SenseTime Research etc)|[[pdf]](https://arxiv.org/pdf/2310.08041.pdf)|⚠️|⭐️ | 
 |2024.01|[FP6-LLM] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2401.14112.pdf)|⚠️|⭐️ |  
 |2024.05|🔥🔥[**W4A8KV4**] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2405.04532)|[[qserve]](https://github.com/mit-han-lab/qserve) ![](https://img.shields.io/github/stars/mit-han-lab/qserve.svg?style=social) |⭐️⭐️ |  
+|2024.05|🔥[SpinQuant] SpinQuant: LLM Quantization with Learned Rotations(@Meta)|[[pdf]](https://arxiv.org/pdf/2405.16406)|⚠️|⭐️ |
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
@@ -209,7 +210,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[KVCache-1Bit] KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization(@Rice University)|[[pdf]](https://arxiv.org/pdf/2405.03917)|⚠️|⭐️⭐️ | 
 |2024.05|🔥[KV-Runahead] KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation(@Apple etc)|[[pdf]](https://arxiv.org/pdf/2405.05329)|⚠️|⭐️⭐️ | 
 |2024.05|🔥[ZipCache] ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification(@Zhejiang University etc)|[[pdf]](https://arxiv.org/pdf/2405.14256)|⚠️|⭐️⭐️ |
-
+|2024.05|🔥[MiniCache] MiniCache: KV Cache Compression in Depth Dimension for Large Language Models(@ZIP Lab)|[[pdf]](https://arxiv.org/pdf/2405.14366)|⚠️|⭐️⭐️ |
+|2024.05|🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago)|[[pdf]](https://arxiv.org/pdf/2405.16444)|⚠️|⭐️⭐️ |
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
@@ -272,6 +274,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.04|🔥🔥[**TriForce**] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(@cmu.edu&Meta AI)|[[pdf]](https://arxiv.org/pdf/2404.11912) | [[TriForce]](https://github.com/Infini-AI-Lab/TriForce) ![](https://img.shields.io/github/stars/Infini-AI-Lab/TriForce.svg?style=social)|⭐️⭐️ |
 |2024.04|🔥🔥[**Hidden Transfer**] Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration(@pku.edu.cn etc)|[[pdf]](https://arxiv.org/pdf/2404.12022.pdf)| ⚠️ |⭐️|
 |2024.05|🔥[Instructive Decoding] INSTRUCTIVE DECODING: INSTRUCTION-TUNED LARGE LANGUAGE MODELS ARE SELF-REFINER FROM NOISY INSTRUCTIONS(@KAIST AI)|[[pdf]](https://openreview.net/pdf?id=LebzzClHYw)| [[Instructive-Decoding]](https://github.com/joonkeekim/Instructive-Decoding) ![](https://img.shields.io/github/stars/joonkeekim/Instructive-Decoding.svg?style=social)|⭐️ |
+|2024.05|🔥[S3D] S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs(@lge.com)|[[pdf]](https://arxiv.org/pdf/2405.20314)| ⚠️ |⭐️|
 
 
 ### 📖Structured Prune/KD/Weight Sparse ([©️back👆🏻](#paperlist))    
