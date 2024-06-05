@@ -147,6 +147,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.01|[FP6-LLM] FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design(@Microsoft etc)|[[pdf]](https://arxiv.org/pdf/2401.14112.pdf)|⚠️|⭐️ |  
 |2024.05|🔥🔥[**W4A8KV4**] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2405.04532)|[[qserve]](https://github.com/mit-han-lab/qserve) ![](https://img.shields.io/github/stars/mit-han-lab/qserve.svg?style=social) |⭐️⭐️ |  
 |2024.05|🔥[SpinQuant] SpinQuant: LLM Quantization with Learned Rotations(@Meta)|[[pdf]](https://arxiv.org/pdf/2405.16406)|⚠️|⭐️ |
+|2024.05|🔥[I-LLM] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models(@Houmo AI)|[[pdf]](https://arxiv.org/pdf/2405.17849)|⚠️|⭐️ |
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
