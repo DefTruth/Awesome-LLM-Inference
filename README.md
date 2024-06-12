@@ -7,12 +7,12 @@
   <img src=https://img.shields.io/github/forks/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-LLM-Inference.svg?style=social >
-  <img src=https://img.shields.io/badge/Release-v1.0-brightgreen.svg >
+  <img src=https://img.shields.io/badge/Release-v1.1-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍ Welcome to star ⭐️ or submit a PR to this repo!
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist), check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍ **Welcome to star ⭐️ or submit a PR to this repo! I will review and merge it.**
 
 ## ©️Citations 
 
