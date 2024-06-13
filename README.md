@@ -213,6 +213,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[ZipCache] ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification(@Zhejiang University etc)|[[pdf]](https://arxiv.org/pdf/2405.14256)|⚠️|⭐️⭐️ |
 |2024.05|🔥[MiniCache] MiniCache: KV Cache Compression in Depth Dimension for Large Language Models(@ZIP Lab)|[[pdf]](https://arxiv.org/pdf/2405.14366)|⚠️|⭐️⭐️ |
 |2024.05|🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago)|[[pdf]](https://arxiv.org/pdf/2405.16444)|⚠️|⭐️⭐️ |
+|2024.06|🔥[CompressKV] Effectively Compress KV Heads for LLM(@alibaba etc)|[[pdf]](https://arxiv.org/pdf/2406.07056)|⚠️|⭐️⭐️ |
 
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
