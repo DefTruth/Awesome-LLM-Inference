@@ -172,6 +172,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.12|🔥[**FlashLLM**] LLM in a flash: Efficient Large Language Model Inference with Limited Memory(@Apple)| [[pdf]](https://arxiv.org/pdf/2312.11514.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.03|🔥🔥[CHAI] CHAI: Clustered Head Attention for Efficient LLM Inference(@cs.wisc.edu etc)| [[pdf]](https://arxiv.org/pdf/2403.08058.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[DeFT] DeFT: Decoding with Flash Tree-Attention for Efficient Tree-structured LLM Inference(@Westlake University etc)| [[pdf]](https://arxiv.org/pdf/2404.00242) | ⚠️ |⭐️⭐️ |  
+|2024.04|[MoA] MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression(@thu et el.)| [[pdf]](https://arxiv.org/pdf/2406.14909) | [[MoA]](https://github.com/thu-nics/MoA) ![](https://img.shields.io/github/stars/thu-nics/MoA.svg?style=social) | ⭐️ |  
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
