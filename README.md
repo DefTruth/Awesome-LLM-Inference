@@ -250,6 +250,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft)| [[pdf]](https://arxiv.org/pdf/2405.05254) | [[unilm-YOCO]](https://github.com/microsoft/unilm/tree/master/YOCO) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) |⭐️⭐️ |  
 |2024.05|🔥🔥[SKVQ] SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models(@Shanghai AI Laboratory)| [[pdf]](https://arxiv.org/pdf/2405.06219) | ⚠️ |⭐️⭐️ |  
 |2024.05|🔥🔥[CLA] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention(@MIT-IBM)| [[pdf]](https://arxiv.org/pdf/2405.12981) | ⚠️ |⭐️⭐️ |  
+|2024.06|🔥[LOOK-M] LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference(@osu.edu etc)| [[pdf]](https://arxiv.org/pdf/2406.18139) | [[LOOK-M]](https://github.com/SUSTechBruce/LOOK-M) ![](https://img.shields.io/github/stars/SUSTechBruce/LOOK-M.svg?style=social) |⭐️⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
