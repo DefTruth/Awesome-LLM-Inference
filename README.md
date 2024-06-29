@@ -104,6 +104,9 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.10|[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc)|[[pdf]](https://arxiv.org/pdf/2310.03294.pdf)|[[LightSeq]](https://github.com/RulinShao/LightSeq) ![](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)|⭐️ |    
 |2023.12|[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU)|[[pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)|[[PowerInfer]](https://github.com/SJTU-IPADS/PowerInfer) ![](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social)|⭐️ |    
 |2024.01|[inferflow]INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS(@Tencent AI Lab)|[[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [[inferflow]](https://github.com/inferflow/inferflow) ![](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)|⭐️ |
+|2024.06|🔥 [Mooncake] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)
+|2023.06|🔥 [LMDeploy] LMDeploy: LMDeploy is a toolkit for compressing, deploying, and serving LLMs(@InternLM) |[[docs]](https://lmdeploy.readthedocs.io/en/latest/) | [[lmdeploy]](https://github.com/InternLM/lmdeploy) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social)
+
 
 ### 📖Continuous/In-flight Batching  ([©️back👆🏻](#paperlist))  
 <div id="Continuous-In-flight-Batching"></div>    
