@@ -153,6 +153,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥🔥[**W4A8KV4**] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2405.04532)|[[qserve]](https://github.com/mit-han-lab/qserve) ![](https://img.shields.io/github/stars/mit-han-lab/qserve.svg?style=social) |⭐️⭐️ |  
 |2024.05|🔥[SpinQuant] SpinQuant: LLM Quantization with Learned Rotations(@Meta)|[[pdf]](https://arxiv.org/pdf/2405.16406)|⚠️|⭐️ |
 |2024.05|🔥[I-LLM] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models(@Houmo AI)|[[pdf]](https://arxiv.org/pdf/2405.17849)|⚠️|⭐️ |
+|2024.06|🔥[OutlierTune] OutlierTune: Efficient Channel-Wise Quantization for Large Language Models(@Beijing University)|[[pdf]](https://arxiv.org/pdf/2406.18832)|⚠️|⭐️ |
+
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
 <div id="IO-FLOPs-Aware-Attention-Sparse"></div>   
@@ -220,6 +222,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[MiniCache] MiniCache: KV Cache Compression in Depth Dimension for Large Language Models(@ZIP Lab)|[[pdf]](https://arxiv.org/pdf/2405.14366)|⚠️|⭐️⭐️ |
 |2024.05|🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago)|[[pdf]](https://arxiv.org/pdf/2405.16444)|⚠️|⭐️⭐️ |
 |2024.06|🔥[CompressKV] Effectively Compress KV Heads for LLM(@alibaba etc)|[[pdf]](https://arxiv.org/pdf/2406.07056)|⚠️|⭐️⭐️ |
+|2024.06|🔥[MemServe] MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool(@Huawei Cloud etc)|[[pdf]](https://arxiv.org/pdf/2406.17565)|⚠️|⭐️⭐️ |
 
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
