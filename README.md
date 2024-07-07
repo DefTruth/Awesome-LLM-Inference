@@ -156,6 +156,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[SpinQuant] SpinQuant: LLM Quantization with Learned Rotations(@Meta)|[[pdf]](https://arxiv.org/pdf/2405.16406)|⚠️|⭐️ |
 |2024.05|🔥[I-LLM] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models(@Houmo AI)|[[pdf]](https://arxiv.org/pdf/2405.17849)|⚠️|⭐️ |
 |2024.06|🔥[OutlierTune] OutlierTune: Efficient Channel-Wise Quantization for Large Language Models(@Beijing University)|[[pdf]](https://arxiv.org/pdf/2406.18832)|⚠️|⭐️ |
+|2024.06|🔥[GPTQT] GPTQT: Quantize Large Language Models Twice to Push the Efficiency(@zju)|[[pdf]](https://arxiv.org/pdf/2407.02891)|⚠️|⭐️ |
 
 
 ### 📖IO/FLOPs-Aware/Sparse Attention ([©️back👆🏻](#paperlist))  
@@ -257,11 +258,12 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.04|🔥🔥[Infini-attention] Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention(@Google) | [[pdf]](https://arxiv.org/pdf/2404.07143.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[RAGCache] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation(@Peking University&ByteDance Inc) | [[pdf]](https://arxiv.org/pdf/2404.12457.pdf) | ⚠️ |⭐️⭐️ |  
 |2024.04|🔥🔥[**KCache**] EFFICIENT LLM INFERENCE WITH KCACHE(@Qiaozhi He, Zhihua Wu)| [[pdf]](https://arxiv.org/pdf/2404.18057) | ⚠️ |⭐️⭐️ |  
-|2024.05|🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft)| [[pdf]](https://arxiv.org/pdf/2405.05254) | [[unilm-YOCO]](https://github.com/microsoft/unilm/tree/master/YOCO) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) |⭐️⭐️ |  
+|2024.05|🔥🔥[**YOCO**] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft)| [[pdf]](https://arxiv.org/pdf/2405.05254) | [[unilm-YOCO]](https://github.com/microsoft/unilm/tree/master/YOCO) ![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) |⭐️⭐️ |  
 |2024.05|🔥🔥[SKVQ] SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models(@Shanghai AI Laboratory)| [[pdf]](https://arxiv.org/pdf/2405.06219) | ⚠️ |⭐️⭐️ |  
-|2024.05|🔥🔥[CLA] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention(@MIT-IBM)| [[pdf]](https://arxiv.org/pdf/2405.12981) | ⚠️ |⭐️⭐️ |  
+|2024.05|🔥🔥[**CLA**] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention(@MIT-IBM)| [[pdf]](https://arxiv.org/pdf/2405.12981) | ⚠️ |⭐️⭐️ |  
 |2024.06|🔥[LOOK-M] LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference(@osu.edu etc)| [[pdf]](https://arxiv.org/pdf/2406.18139) | [[LOOK-M]](https://github.com/SUSTechBruce/LOOK-M) ![](https://img.shields.io/github/stars/SUSTechBruce/LOOK-M.svg?style=social) |⭐️⭐️ | 
 |2024.06|🔥🔥[**MInference**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft etc)| [[pdf]](https://arxiv.org/pdf/2407.02490) | [[MInference]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social) |⭐️⭐️ |
+|2024.06|🔥🔥[**InfiniGen**] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management(@snu) | [[pdf]](https://arxiv.org/pdf/2406.19707) | ⚠️ |⭐️⭐️ |  
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
