@@ -324,7 +324,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.01| [MoE-Mamba] MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts(@uw.edu.pl) |  [[pdf]](https://arxiv.org/pdf/2401.04081.pdf)| ⚠️ |⭐️|   
 |2024.04| [MoE Inference] Toward Inference-optimal Mixture-of-Expert Large Language Models(@UC San Diego etc)| [[pdf]](https://arxiv.org/pdf/2404.02852.pdf)| ⚠️ |⭐️|   
 |2024.05| 🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI)|[[pdf]](https://arxiv.org/pdf/2405.04434) | [[DeepSeek-V2]](https://github.com/deepseek-ai/DeepSeek-V2) ![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2.svg?style=social)| ⭐️⭐️ | 
-
+|2024.06| [MoE] A Survey on Mixture of Experts(@HKU) | [[pdf]](https://arxiv.org/pdf/2407.06204)| ⚠️ |⭐️| 
 
 
 ### 📖CPU/Single GPU/FPGA/Mobile Inference ([©️back👆🏻](#paperlist))  
