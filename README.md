@@ -185,6 +185,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.04|🔥🔥[DeFT] DeFT: Decoding with Flash Tree-Attention for Efficient Tree-structured LLM Inference(@Westlake University etc)| [[pdf]](https://arxiv.org/pdf/2404.00242) | ⚠️ |⭐️⭐️ |  
 |2024.04|[MoA] MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression(@thu et el.)| [[pdf]](https://arxiv.org/pdf/2406.14909) | [[MoA]](https://github.com/thu-nics/MoA) ![](https://img.shields.io/github/stars/thu-nics/MoA.svg?style=social) | ⭐️ |  
 |2024.07|🔥🔥[**FlashAttention-3**] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) |[[pdf]](https://tridao.me/publications/flash3/flash3.pdf)|[[flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|⭐️⭐️ |  
+|2024.07|🔥🔥[**MInference 1.0**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) |[[pdf]](https://arxiv.org/pdf/2407.02490)|[[MInference 1.0]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social)|⭐️⭐️ |  
+
 
 ### 📖KV Cache Scheduling/Quantize/Dropping ([©️back👆🏻](#paperlist))    
 <div id="KV-Cache-Scheduling-Quantize-Dropping"></div>  
