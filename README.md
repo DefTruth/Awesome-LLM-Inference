@@ -340,6 +340,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.03|[FlightLLM] FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(@Infinigence-AI) | [[pdf]](https://arxiv.org/pdf/2401.03868.pdf)|⚠️|⭐️ | 
 |2024.03|[Transformer-Lite] Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs(@OPPO) | [[pdf]](https://arxiv.org/ftp/arxiv/papers/2403/2403.20041.pdf)|⚠️|⭐️ | 
 |2024.07|🔥🔥[**xFasterTransformer**] Inference Performance Optimization for Large Language Models on CPUs(@Intel) | [[pdf]](https://arxiv.org/pdf/2407.07304)|[[xFasterTransformer]](https://github.com/intel/xFasterTransformer) ![](https://img.shields.io/github/stars/intel/xFasterTransformer.svg?style=social) |⭐️ | 
+|2024.07| [Summary] Inference Optimization of Foundation Models on AI Accelerators(@AWS AI) | [pdf]](https://arxiv.org/pdf/2407.09111)|⚠️|⭐️ | 
 
 
 ### 📖Non Transformer Architecture ([©️back👆🏻](#paperlist))    
