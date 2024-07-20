@@ -270,6 +270,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥🔥[**MInference**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft etc)| [[pdf]](https://arxiv.org/pdf/2407.02490) | [[MInference]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social) |⭐️⭐️ |
 |2024.06|🔥🔥[**InfiniGen**] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management(@snu) | [[pdf]](https://arxiv.org/pdf/2406.19707) | ⚠️ |⭐️⭐️ |  
 |2024.06|🔥🔥[**Quest**] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) | [[pdf]](https://arxiv.org/pdf/2406.10774)| [[Quest]](https://github.com/mit-han-lab/Quest) ![](https://img.shields.io/github/stars/mit-han-lab/Quest.svg?style=social) |⭐️⭐️ |
+|2024.07| 🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
