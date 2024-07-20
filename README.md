@@ -365,6 +365,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2023.08|[Tensor Cores] Reducing shared memory footprint to leverage high  throughput on Tensor Cores and its flexible API extension library(@Tokyo Institute etc) |[[pdf]](https://arxiv.org/pdf/2308.15152.pdf)|[[wmma_extension]](https://github.com/wmmae/wmma_extension) ![](https://img.shields.io/github/stars/wmmae/wmma_extension.svg?style=social)|⭐️ |   
 |2024.02|[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc)|[[pdf]](https://arxiv.org/pdf/2402.10076.pdf)|[[QUICK]](https://github.com/SqueezeBits/QUICK) ![](https://img.shields.io/github/stars/SqueezeBits/QUICK.svg?style=social)|⭐️⭐️ |
 |2024.02|[Tensor Parallel] TP-AWARE DEQUANTIZATION(@IBM T.J. Watson Research Center)|[[pdf]](https://arxiv.org/pdf/2402.04925.pdf)|⚠️|⭐️ | 
+|2024.07|🔥🔥[**flute**] Fast Matrix Multiplications for Lookup Table-Quantized LLMs(@mit.edu etc) | [[pdf]](https://arxiv.org/pdf/2407.10960)|[[flute]](https://github.com/HanGuo97/flute) ![](https://img.shields.io/github/stars/HanGuo97/flute.svg?style=social)|⭐️⭐️ |
 
 ### 📖Position Embed/Others ([©️back👆🏻](#paperlist))  
 <div id="Others"></div>  
