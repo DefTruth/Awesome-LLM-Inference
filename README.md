@@ -41,7 +41,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 
 
 ## 📖Contents 
-* 📖[Trending LLM/LMM Topics](#Trending-LLM-LMM-Topics)🔥🔥🔥
+* 📖[Trending LLM/LVLM Topics](#Trending-LLM-LVLM-Topics)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework](#LLM-Train-Inference-Framework)
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
@@ -56,11 +56,11 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)🔥
 * 📖[CPU/Single GPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
 * 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
-* 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
+* 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)
 * 📖[Position Embed/Others](#Others)
 
-### 📖Trending LLM/LMM Topics ([©️back👆🏻](#paperlist))  
-<div id="Trending-LLM-LMM-Topics"></div>  
+### 📖Trending LLM/LVLMs Topics ([©️back👆🏻](#paperlist))  
+<div id="Trending-LLM-LVLM-Topics"></div>  
 
 |Date|Title|Paper|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|   
@@ -236,6 +236,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥[CompressKV] Effectively Compress KV Heads for LLM(@alibaba etc)|[[pdf]](https://arxiv.org/pdf/2406.07056)|⚠️|⭐️⭐️ |
 |2024.06|🔥[MemServe] MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool(@Huawei Cloud etc)|[[pdf]](https://arxiv.org/pdf/2406.17565)|⚠️|⭐️⭐️ |  
 |2024.07| [MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung)|[[pdf]](https://arxiv.org/pdf/2406.09297)|[[pythia-mlkv]](https://github.com/zaydzuhri/pythia-mlkv) ![](https://img.shields.io/github/stars/zaydzuhri/pythia-mlkv.svg?style=social)|⭐️ | 
+|2024.07|🔥 [**ElasticCache-LVLM**] Efficient Inference of Vision Instruction-Following Models with Elastic Cache(@Tsinghua University etc)|[[pdf]](https://arxiv.org/pdf/2407.18121)|[[ElasticCache]](https://github.com/liuzuyan/ElasticCache) ![](https://img.shields.io/github/stars/liuzuyan/ElasticCache.svg?style=social)|⭐️ |
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
