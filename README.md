@@ -12,7 +12,7 @@
  </div>   
 
 ## 📒Introduction
-Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome SD **Distributed/Caching** Inference, please check 📖[Awesome-SD-Distributed/Caching-Inference](https://github.com/DefTruth/Awesome-SD-Distributed-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social)
+Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with Codes](#paperlist). For Awesome SD **Distributed/Caching** Inference, please check 📖[Awesome-SD-Distributed/Caching-Inference](https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-SD-Distributed-Caching-Inference.svg?style=social)
 
 ## ©️Citations 
 
