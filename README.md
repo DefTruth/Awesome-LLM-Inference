@@ -235,7 +235,8 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.05|🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago)|[[pdf]](https://arxiv.org/pdf/2405.16444)|⚠️|⭐️⭐️ |
 |2024.06|🔥[CompressKV] Effectively Compress KV Heads for LLM(@alibaba etc)|[[pdf]](https://arxiv.org/pdf/2406.07056)|⚠️|⭐️⭐️ |
 |2024.06|🔥[MemServe] MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool(@Huawei Cloud etc)|[[pdf]](https://arxiv.org/pdf/2406.17565)|⚠️|⭐️⭐️ |  
-|2024.07| [MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung)|[[pdf]](https://arxiv.org/pdf/2406.09297)|[[pythia-mlkv]](https://github.com/zaydzuhri/pythia-mlkv) ![](https://img.shields.io/github/stars/zaydzuhri/pythia-mlkv.svg?style=social)|⭐️ | 
+|2024.07|🔥[MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung)|[[pdf]](https://arxiv.org/pdf/2406.09297)|[[pythia-mlkv]](https://github.com/zaydzuhri/pythia-mlkv) ![](https://img.shields.io/github/stars/zaydzuhri/pythia-mlkv.svg?style=social)|⭐️ | 
+|2024.07|🔥[ThinK] ThinK: Thinner Key Cache by Query-Driven Pruning(@Salesforce AI Research etc)|[[pdf]](https://arxiv.org/pdf/2407.21018)|⚠️|⭐️⭐️ |  
 
 ### 📖Prompt/Context Compression ([©️back👆🏻](#paperlist))    
 <div id="Context-Compression"></div>  
