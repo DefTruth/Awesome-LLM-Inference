@@ -300,10 +300,11 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.06|🔥🔥[**MInference**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft etc)| [[pdf]](https://arxiv.org/pdf/2407.02490) | [[MInference]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social) |⭐️⭐️ |
 |2024.06|🔥🔥[**InfiniGen**] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management(@snu) | [[pdf]](https://arxiv.org/pdf/2406.19707) | ⚠️ |⭐️⭐️ |  
 |2024.06|🔥🔥[**Quest**] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) | [[pdf]](https://arxiv.org/pdf/2406.10774)| [[Quest]](https://github.com/mit-han-lab/Quest) ![](https://img.shields.io/github/stars/mit-han-lab/Quest.svg?style=social) |⭐️⭐️ |
-|2024.07| 🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
-|2024.08| 🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |
-|2024.09| 🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
+|2024.07|🔥[PQCache] PQCache: Product Quantization-based KVCache for Long Context LLM Inference(@PKU etc)| [[pdf]](https://arxiv.org/pdf/2407.12820) | ⚠️ |⭐️⭐️ |  
+|2024.08|🔥[**SentenceVAE**] SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models(@TeleAI)| [[pdf]](https://arxiv.org/pdf/2408.00655) | ⚠️ |⭐️⭐️ |
+|2024.09|🔥[**InstInfer**] InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference(@PKU etc) |[[pdf]](https://arxiv.org/pdf/2409.04992) | ⚠️ |⭐️⭐️ |
 |2024.09|🔥[**RetrievalAttention**] RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval(@microsoft.com)|[[pdf]](https://arxiv.org/pdf/2409.10516)|⚠️|⭐️⭐️ | 
+|2024.10|🔥[**ShadowKV**] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference(@CMU & bytedance)|[[pdf]](https://arxiv.org/pdf/2410.21465)|[[ShadowKV]](https://github.com/bytedance/ShadowKV) ![](https://img.shields.io/github/stars/bytedance/ShadowKV.svg?style=social) |⭐️⭐️ | 
 
 ### 📖Early-Exit/Intermediate Layer Decoding ([©️back👆🏻](#paperlist))  
 <div id="Early-Exit"></div>  
