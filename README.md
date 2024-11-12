@@ -434,6 +434,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2021.04|🔥[RoPE] ROFORMER: ENHANCED TRANSFORMER WITH ROTARY  POSITION EMBEDDING(@Zhuiyi Technology Co., Ltd.) |[[pdf]](https://arxiv.org/pdf/2104.09864.pdf)|[[transformers]](https://huggingface.co/docs/transformers/model_doc/roformer) ![](https://img.shields.io/github/stars/huggingface/transformers.svg?style=social)|⭐️ |     
 |2022.10|[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA)|[[pdf]](https://arxiv.org/pdf/2210.03052.pdf)|[[ByteTransformer]](https://github.com/bytedance/ByteTransformer) ![](https://img.shields.io/github/stars/bytedance/ByteTransformer.svg?style=social)|⭐️ |      
 |2024.09|🔥[**Inf-MLLM**] Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU(@sjtu)|[[pdf]](https://arxiv.org/pdf/2409.09086)|⚠️|⭐️ |
+|2024.11|🔥[VL-CACHE] VL-CACHE: SPARSITY AND MODALITY-AWARE KV CACHE COMPRESSION FOR VISION-LANGUAGE MODEL INFERENCE ACCELERATION(@g.ucla.edu etc)|[[pdf]](https://arxiv.org/pdf/2410.23317)|⚠️|⭐️ |
 
 ## ©️License  
 
