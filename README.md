@@ -44,7 +44,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
 * 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
 * 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
-* 📖[Data/Model/Pipeline/Tensor/Sequence/Context Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥
+* 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
 * 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
 * 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
 * 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
@@ -73,7 +73,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.07|🔥🔥[**FlashAttention-3**] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) |[[pdf]](https://tridao.me/publications/flash3/flash3.pdf)|[[flash-attention]](https://github.com/Dao-AILab/flash-attention) ![](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social)|⭐️⭐️ |  
 |2024.07|🔥🔥[**MInference 1.0**] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) |[[pdf]](https://arxiv.org/pdf/2407.02490)|[[MInference 1.0]](https://github.com/microsoft/MInference) ![](https://img.shields.io/github/stars/microsoft/MInference.svg?style=social)|⭐️⭐️ |  
 
-### 📖Data/Model/Pipeline/Tensor/Sequence/Context Parallelism ([©️back👆🏻](#paperlist))  
+### 📖DP/MP/PP/TP/SP/CP Parallelism ([©️back👆🏻](#paperlist))  
 <div id="DP-MP-PP-TP-SP-CP"></div>    
 
 |Date|Title|Paper|Code|Recom|  
