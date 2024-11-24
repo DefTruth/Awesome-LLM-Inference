@@ -26,12 +26,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 }
 ```
 
-## 📙Awesome LLM Inference Papers with Codes   
-<div id="paperlist"></div>  
-
-![LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/358e897b-3af7-4913-9006-9f17b1d7e2cb)
-
-## 🎉Download PDFs  
+## 🎉Awesome LLM Inference Papers with Codes  
 
 [Awesome LLM Inference for Beginners.pdf](https://github.com/DefTruth/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc. 
 
@@ -39,6 +34,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 <img src=https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/0ed77e9d-a1eb-4095-9a82-bad624964e55 >
 </div>   
 
+<div id="paperlist"></div>  
 
 ## 📖Contents 
 * 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
