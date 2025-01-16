@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/cbc1e41a-42da-4ba7-9d09-bbed4f8258e6)
+![image](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
