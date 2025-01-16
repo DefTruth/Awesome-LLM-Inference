@@ -1,6 +1,8 @@
 
-![image](https://github.com/DefTruth/Awesome-LLM-Inference/assets/31974251/4d9ab775-f200-471d-a289-e2b14296b633)
-
+<div align='center'>
+  <img src=https://github.com/user-attachments/assets/f47a5bb2-3889-4f94-89e9-61ebe899fe03 width=250px >
+</div>   
+ 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
